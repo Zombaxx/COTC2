@@ -14,8 +14,8 @@ north_germanic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	
 	norse = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { norsegfx }
+		unit_graphical_cultures = {westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000 
@@ -69,8 +69,8 @@ north_germanic = {
 	}
 
 	swedish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { norsegfx }
+		unit_graphical_cultures = {westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -118,8 +118,8 @@ north_germanic = {
 		seafarer = yes
 	}
 	norwegian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { norsegfx }
+		unit_graphical_cultures = {westerngfx }
 		alternate_start = { 
 			OR = {
 				year >= 1000
@@ -156,8 +156,8 @@ north_germanic = {
 		seafarer = yes
 	}
 	danish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { norsegfx }
+		unit_graphical_cultures = {westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000

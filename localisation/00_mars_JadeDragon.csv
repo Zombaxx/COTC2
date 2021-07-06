@@ -1,22 +1,22 @@
-title_china_emperor;Admiral;Empereur;Kaiser;;Emperador;;;;;;;;;x
+title_china_emperor;Admiral;Admiral;Admiral;;Admiral;;;;;;;;;x
 tang_china;Mothership;;;;;;;;;;x
 jin_china;Freedom Bringer;;;;;;;;;;x
 wei_china;Celestial Overlords;;;;;;;;;;x
-qi_china;True Alliance of the Outer Ring;;;;;;;;;;x
+qi_china;People's Republic;;;;;;;;;;x
 zhou_china;Fallen Empire;;;;;;;;;;x
 han_china;Spacer's Guild;;;;;;;;;;x
-qin_china;Peacekeepers;;;;;;;;;;x
+qin_china;Peacekeeper;;;;;;;;;;x
 yan_china;Imperium of New Terra;;;;;;;;;;x
 zhao_china;Alliance of Man;;;;;;;;;;x
 liao_china;Aurora;;;;;;;;;;x
-yuan_china;Behemoths;;;;;;;;;;x
-xia_china;Guild of Spacers;;;;;;;;;;x
+yuan_china;Behemoth;;;;;;;;;;x
+xia_china;Canterbury;;;;;;;;;;x
 qing_china;High Solar;;;;;;;;;;x
 dai_china;Pure Celestial Plane;;;;;;;;;;x
-cheng_china;Spacer Incorporated;;;;;;;;;;x
+cheng_china;Nauvoo;;;;;;;;;;x
 liang_china;New Terra;;;;;;;;;;x
-song_china;Tau Ceti Defectors;;;;;;;;;;x
-ming_china;United Planets of the Rim;;;;;;;;;;x
+song_china;Guild of Spacers;;;;;;;;;;x
+ming_china;Spacer Incorporated;;;;;;;;;;x
 shu_china;Humanitarian Expedition;;;;;;;;;;x
 wu_china;Spacer's Choice;;;;;;;;;;x
 chu_china;Infinity;;;;;;;;;;x
@@ -24,3 +24,4 @@ yue_china;Galactica;;;;;;;;;;x
 yin_china;Serenity;;;;;;;;;;x
 shun_china;Spaceball;;;;;;;;;;x
 china_china;Spacer's Guild;Chine;China;;China;;;;;;;;;x
+china_china_full;Spacer's Guild Republic;Empire chinois;Chinesisches Kaiserreich;;Imperio chino;;;;;;;;;x

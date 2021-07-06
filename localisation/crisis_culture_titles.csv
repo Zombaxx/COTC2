@@ -1,0 +1,1262 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+COUNCILLORS;Ministers;Conseillers;Ratsmitglieder;;Consejeros;;;;;;;;;x
+COURT_MENU;Cabinet;Conseil;Rat;;Consejo;;;;;;;;;x
+PATRIARCHATE_TITLE;Jurisdiction of;;;;;;;;;;;;;x
+AUTOCEPHALOUS_PATRIARCHS;National Administrations;;;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE;Chief Administrator;;;;;;;;;;;;;x
+REL_AUTOCEPHALY_DESC;Independent Jurisdictions above the Sector level;Patriarches autocéphales sous les rois;Autokephale Patriarchen unter Königen;;Patriarcas autocéfalos bajo reyes;;;;;;;;;x
+AUTOCEPHALY_IRO;§YAdditional Jurisdictions§!;§YPatriarches autocéphales§!;§YZusätzliche autokephale Patriarche§!;;§YPatriacas autocéfalos adicionales§! ;;;;;;;;;x
+#
+REL_LIEGE_MALE;sir;Président;Präsident;;Presidente;;;;;;;;;x
+REL_LIEGE_FEMALE;ma'am;Président;Präsident;;Presidente;;;;;;;;;x
+#
+emperor;President;Président;Präsident;;Presidente;;;;;;;;;x
+emperor_female;President;Présidente;Präsident;Präsidentin;;Presidenta;;;;;;;;x
+emperor_foa;Mister President;Monsieur le président;Herr Präsident;;Señor Presidente;;;;;;;;;x
+emperor_foa_female;Madam President;Madame la présidente;Frau Präsidentin;;Señora Presidenta;;;;;;;;;x
+emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+empire_of;Confederation of;Confédération de;Bund;;Confederación de;;;;;;;;;x
+empire;Confederation;Confédération;Bund;;Confederación;;;;;;;;;x
+empires;Confederations;Confédérations;Bunds;;Confederaciónes;;;;;;;;;x
+king;President;Président;Präsident;;Presidente;;;;;;;;;x
+king_female;President;Présidente;Präsident;Präsidentin;;Presidenta;;;;;;;;x
+king_foa;Mister President;Monsieur le président;Herr Präsident;;Señor Presidente;;;;;;;;;x
+king_foa_female;Madam President;Madame la présidente;Frau Präsidentin;;Señora Presidenta;;;;;;;;;x
+king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+kingdom_of;Republic of;République de;Republik;;Republica de;;;;;;;;;x
+kingdom;Republic;République;Republik;;República;;;;;;;;;x
+kingdoms;Republics;Républiques;Republiken;;Repúblicas;;;;;;;;;x
+duke;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+duke_female;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+duke_foa;Mister Governor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+duke_foa_female;Madam Governor;Madame le gouverneur;Frau Gouverneur;;Señora Gobernador;;;;;;;;;x
+duke_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+duke_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+duchy_of;Sector;Secteur;Sektor;;Sector;;;;;;;;;x
+duchy;Sector;Secteur;Sektor;;Sector;;;;;;;;;x
+duchies;Sectors;Secteurs;Sektorin;;Sectores;;;;;;;;;x
+count;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+count_female;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+count_foa;Mister Governor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+count_foa_female;Madam Governor;Madame le gouverneur;Frau Gouverneur;Señora Gobernador;;;;;;;;;;x
+count_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+count_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+county_of;Star System;Système stellaire;Sterne-System;;Sistema Estelar;;;;;;;;;x
+county;System;Système;System;;Sistema;;;;;;;;;x
+counties;Systems;Systèmes;Systeme;;Sistemas;;;;;;;;;x
+baron;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+baron_female;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+baron_foa;Mister Governor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+baron_foa_female;Madam Governor;Madame le gouverneur;Frau Gouverneur;Señora Gobernador;;;;;;;;;;x
+baron_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+baron_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+barony_of;Planet;Planète;Planet;;Planeta;;;;;;;;;x
+barony;Planet;Planète;Planet;;Planeta;;;;;;;;;x
+baronies;Settlements;Planètes;Planeten;;Planetas;;;;;;;;;x
+civil_emperor;Federal President;Président;Präsident;;Presidente;;;;;;;;;x
+civil_emperor_female;Federal President;Présidente;Präsident;Präsidentin;;Presidenta;;;;;;;;x
+civil_emperor_foa;Mister President;Monsieur le président;Herr Präsident;;Señor Presidente;;;;;;;;;x
+civil_emperor_foa_female;Madam President;Madame la présidente;Frau Präsidentin;;Señora Presidenta;;;;;;;;;x
+civil_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+civil_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+civil_empire_of;Confederation of;Confédération de;Bund;;Confederación de;;;;;;;;;x
+civil_empire;Confederation;Confédération;Bund;;Confederación;;;;;;;;;x
+civil_empires;Confederations;Confédérations;Bunds;;Confederaciónes;;;;;;;;;x
+civil_king;President;Président;Präsident;;Presidente;;;;;;;;;x
+civil_king_female;President;Présidente;Präsident;Präsidentin;;Presidenta;;;;;;;;x
+civil_king_foa;Mister President;Monsieur le président;Herr Präsident;;Señor Presidente;;;;;;;;;x
+civil_king_foa_female;Madam President;Madame la présidente;Frau Präsidentin;;Señora Presidenta;;;;;;;;;x
+civil_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+civil_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+civil_kingdom_of;Republic of;République de;Republik;;Republica de;;;;;;;;;x
+civil_kingdom;Republic;République;Republik;;República;;;;;;;;;x
+civil_kingdoms;Republics;Républiques;Republiken;;Repúblicas;;;;;;;;;x
+civil_duke;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+civil_duke_female;Governor-General;Gouverneur-Général;Generalgouverneur;;Gobernador-General;;;;;;;;;x
+civil_duke_foa;Mister Governor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+civil_duke_foa_female;Madam Governor;Madame le gouverneur;Frau Gouverneur;;Señora Gobernador;;;;;;;;;x
+civil_duke_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+civil_duke_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+civil_duchy_of;Sector;Secteur;Sektor;;Sector;;;;;;;;;x
+civil_duchy;Sector;Secteur;Sektor;;Sector;;;;;;;;;x
+civil_duchies;Sectors;Secteurs;Sektorin;;Sectores;;;;;;;;;x
+civil_count;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+civil_count_female;Governor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+civil_count_foa;Mister Governor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+civil_count_foa_female;Madam Governor;Madame le gouverneur;Frau Gouverneur;Señora Gobernador;;;;;;;;;;x
+civil_count_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+civil_count_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+civil_county_of;Star System;Système stellaire;Sterne-System;;Sistema Estelar;;;;;;;;;x
+civil_county;System;Système;System;;Sistema;;;;;;;;;x
+civil_counties;Systems;Systèmes;Systeme;;Sistemas;;;;;;;;;x
+civil_baron;Mayor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+civil_baron_female;Mayor;Gouverneur;Gouverneur;;Gobernador;;;;;;;;;x
+civil_baron_foa;Mister Mayor;Monsieur le gouverneur;Herr Gouverneur;;Señor Gobernador;;;;;;;;;x
+civil_baron_foa_female;Madam Mayor;Madame le gouverneur;Frau Gouverneur;Señora Gobernador;;;;;;;;;;x
+civil_baron_title_ruler_consort;Mayor's Spouse;Epoux;;;;;;;;;;;x
+civil_baron_title_ruler_consort_female;Mayor's Spouse;Dame;;;;;;;;;;;;x
+military_emperor;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_emperor_female;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_emperor_foa;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_emperor_foa_female;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+military_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+military_empire_of;Hegemony of;Hégémonie de;Hegemonie;;Hegemonia de;;;;;;;;;x
+military_empire;Confederation;Hégémonie;Hegemonie;;Hegemonia;;;;;;;;;x
+military_empires;Confederations;Confédérations;Hegemonien;;Hegemonias;;;;;;;;;x
+military_king;Grand Admiral;Grand amiral;Großadmiral;;Gran Almirante;;;;;;;;;x
+military_king_female;Grand Admiral;Grande amirale;Großadmiral;;Gran Almirante;;;;;;;;;x
+military_king_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_king_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+military_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+military_kingdom_of;Military State of;Etat militaire de;Militärstaat;;Estado Militar de;;;;;;;;;x
+military_kingdom;Military State;Etat militaire;Militärstaat;;Estado Militar;;;;;;;;;x
+military_kingdoms;Military States;Etats militaires;Militärstaaten;;Estados Militares;;;;;;;;;x
+military_duke;Fleet Admiral;Amiral de flotte;Flottenadmiral;;Almirante de la Flota;;;;;;;;;x
+military_duke_female;Fleet Admiral;Amirale de flotte;Flottenadmiral;;Almirante de la Flota;;;;;;;;;x
+military_duke_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_duke_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_duke_title_ruler_consort;Admiral's Spouse;Epoux;;;;;;;;;;;x
+military_duke_title_ruler_consort_female;Admiral's Spouse;Dame;;;;;;;;;;;;x
+military_duchy_of;Defense Zone;Zone de défense;Verteidigung Zone;;Zona de defensa;;;;;;;;;x
+military_duchy;Defense Zone;Zone de défense;Verteidigung Zone;;Zona de defensa;;;;;;;;;x
+military_duchies;Defense Zones;Zones de défense;Sektorin;;Zonas de defensa;;;;;;;;;x
+military_count;Counter-Admiral;Contre-Amiral;Konteradmiral;;Contralmirante;;;;;;;;;x
+military_count_female;Counter-Admiral;Contre-Amiral;Konteradmiral;;Contralmirante;;;;;;;;;x
+military_duke_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_duke_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_baron;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_baron_female;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_baron_foa;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_baron_foa_female;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_baron_title_ruler_consort;Commandant's Spouse;Epoux;;;;;;;;;;;x
+military_baron_title_ruler_consort_female;Commandant's Spouse;Dame;;;;;;;;;;;;x
+#
+military_republic_emperor;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_republic_emperor_female;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_republic_emperor_foa;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_republic_emperor_foa_female;Captain-General;Capitaine-Général;Generalkapitän;;Capitán-General;;;;;;;;;x
+military_republic_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+military_republic_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+military_republic_empire_of;Confederation of;Confédération de;Bund;;Confederación de;;;;;;;;;x
+military_republic_empire;Confederation;Confédération;Bund;;Confederación;;;;;;;;;x
+military_republic_empires;Confederations;Confédérations;Bunds;;Confederaciónes;;;;;;;;;x
+military_republic_king;Grand Admiral;Grand amiral;Großadmiral;;Gran Almirante;;;;;;;;;x
+military_republic_king_female;Grand Admiral;Grande amirale;Großadmiral;;Gran Almirante;;;;;;;;;x
+military_republic_king_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_republic_king_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_republic_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+military_republic_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+military_republic_kingdom_of;Republic of;République de;Republik;;Republica de;;;;;;;;;x
+military_republic_kingdom;Republic;République;Republik;;República;;;;;;;;;x
+military_republic_kingdoms;Republics;Républiques;Republiken;;Repúblicas;;;;;;;;;x
+military_republic_duke;Fleet Admiral;Amiral de flotte;Flottenadmiral;;Almirante de la Flota;;;;;;;;;x
+military_republic_duke_female;Fleet Admiral;Amirale de flotte;Flottenadmiral;;Almirante de la Flota;;;;;;;;;x
+military_republic_duke_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_republic_duke_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_republic_duke_title_ruler_consort;Admiral's Spouse;Epoux;;;;;;;;;;;x
+military_republic_duke_title_ruler_consort_female;Admiral's Spouse;Dame;;;;;;;;;;;;x
+military_republic_count;Counter-Admiral;Contre-Amiral;Konteradmiral;;Contralmirante;;;;;;;;;x
+military_republic_count_female;Counter-Admiral;Contre-Amiral;Konteradmiral;;Contralmirante;;;;;;;;;x
+military_republic_duke_foa;Admiral;Amiral;Admiral;;Almirante;;;;;;;;;x
+military_republic_duke_foa_female;Admiral;Amirale;Admiral;;Almirante;;;;;;;;;x
+military_republic_baron;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_republic_baron_female;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_republic_baron_foa;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_republic_baron_foa_female;Commandant;Commandante;Kommandant;;Commandante;;;;;;;;;x
+military_republic_baron_title_ruler_consort;Commandant's Spouse;Epoux;;;;;;;;;;;x
+military_republic_baron_title_ruler_consort_female;Commandant's Spouse;Dame;;;;;;;;;;;;x
+monarchy_emperor;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
+monarchy_emperor_female;Empress;Impératrice;Kaiserin;;Emperatriz;;;;;;;;;x
+monarchy_emperor_title_ruler_consort;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
+monarchy_emperor_title_ruler_consort_female;Empress;Impératrice;Kaiserin;;Emperatriz;;;;;;;;;x
+monarchy_emperor_foa;Your Imperial Majesty;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+monarchy_emperor_foa_female;Your Imperial Majesty;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+monarchy_empire_of;Star Empire of;Empire Stellaire de;Sternenreich von;;Imperio Estelar de;;;;;;;;;x
+monarchy_empire;Empire;Empire;Reich;;Imperio;;;;;;;;;x
+monarchy_empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
+monarchy_king;King;Roi;König;;Rey;;;;;;;;;x
+monarchy_king_female;Queen;Reine;Königin;;Reina;;;;;;;;;x
+monarchy_king_title_ruler_consort;King;Roi;König;;Rey;;;;;;;;;x
+monarchy_king_title_ruler_consort_female;Queen;Reine;Königin;;Reina;;;;;;;;;x
+monarchy_king_foa;Your Majesty;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+monarchy_king_foa_female;Your Majesty;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+monarchy_kingdom_of;Star Kingdom of;Royaume stellaire de;Sternenkönigreich von;;Reino Estelar;;;;;;;;;x
+monarchy_kingdom;Kingdom;Royaume;Königreich;;Reino;;;;;;;;;x
+monarchy_kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
+monarchy_duke;Duke;Duc;Herzog;;Duque;;;;;;;;;x
+monarchy_duke_female;Duchess;Duchesse;Herzogin;;Duquesa;;;;;;;;;x
+monarchy_duke_title_ruler_consort;Duke;Duc;Herzog;;Duque;;;;;;;;;x
+monarchy_duke_title_ruler_consort_female;Duchess;Duchesse;Herzogin;;Duquesa;;;;;;;;;x
+monarchy_duke_foa;Your Grace;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+monarchy_duke_foa_female;Your Grace;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+monarchy_count;Count;Comte;Graf;;Conde;;;;;;;;;x
+monarchy_count_female;Countess;Comtesse;Gräfin;;Condesa;;;;;;;;;x
+monarchy_count_title_ruler_consort;Count;Comte;Graf;;Conde;;;;;;;;;x
+monarchy_count_title_ruler_consort_female;Countess;Comtesse;Gräfin;;Condesa;;;;;;;;;x
+monarchy_count_foa;My Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+monarchy_count_foa_female;My Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+monarchy_baron;Baron;Baron;Baron;;Barón;;;;;;;;;x
+monarchy_baron_female;Baroness;Baronne;Baroness;;Baronesa;;;;;;;;;x
+monarchy_baron_title_ruler_consort;Baron;Baron;Baron;;Barón;;;;;;;;;x
+monarchy_baron_title_ruler_consort_female;Baroness;Baronne;Baroness;;Baronesa;;;;;;;;;x
+monarchy_baron_foa;My Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+monarchy_baron_foa_female;My Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+monarchy_emperor_bio_directionist;Inheritor;;;;;;;;;x
+monarchy_emperor_female_bio_directionist;Inheritor;;;;;;;;;x
+monarchy_emperor_foa_bio_directionist;Inheritor;;;;;;;;;;;;;x
+monarchy_emperor_foa_female_bio_directionist;Inheritor;;;;;;;;;;;;;x
+monarchy_empire_of_bio_directionist;Dominion of;;;;;;;;;;;;;x
+monarchy_empire_bio_directionist;Dominion;;;;;;;;;;;;;x
+monarchy_empires_bio_directionist;Dominions;;;;;;;;;;;;;x
+monarchy_king_bio_directionist;Director-General;;;;;;;;;;;;;x
+monarchy_king_female_bio_directionist;Director-General;;;;;;;;;;;;;x
+monarchy_king_foa_bio_directionist;Director;;;;;;;;;;;;x
+monarchy_king_foa_female_bio_directionist;Director;;;;;;;;;;;;;x
+monarchy_kingdom_of_bio_directionist;State of;;;;;;;;;;;;;x
+monarchy_kingdom_bio_directionist;State;;;;;;;;;;;;;x
+monarchy_kingdoms_bio_directionist;States;;;;;;;;;;;;;x
+monarchy_duke_bio_directionist;Director;;;;;;;;;;;;;x
+monarchy_duke_female_bio_directionist;Director;;;;;;;;;;;;;x
+monarchy_duke_foa_bio_directionist;Director;;;;;;;;;;;;;x
+monarchy_duke_foa_female_bio_directionist;Director;;;;;;;;;;;;;x
+monarchy_count_bio_directionist;Overseer;;;;;;;;;;;;;x
+monarchy_count_female_bio_directionist;Overseer;;;;;;;;;;;;;x
+monarchy_count_foa_bio_directionist;Overseer;;;;;;;;;;;;;x
+monarchy_count_foa_female_bio_directionist;Overseer;;;;;;;;;;;;;x
+monarchy_baron_bio_directionist;Governor;;;;;;;;;;;;;x
+monarchy_baron_female_bio_directionist;Governor;;;;;;;;;;;;;x
+monarchy_baron_foa_bio_directionist;Governor;;;;;;;;;;;;;x
+monarchy_baron_foa_female_bio_directionist;Governor;;;;;;;;;;;;;x
+temple_emperor;Director-General;Directeur-Général;;;;;;;;;;;;x
+temple_emperor_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+temple_emperor_foa;Director-General;Monsieur le directeur-général;;;;;;;;;;;;x
+temple_emperor_foa_female;Director-General;Madame la directrice-général;;;;;;;;;;;;x
+temple_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+temple_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+temple_empire_of;Grand Directorate of;Grand directorat de;;;;;;;;;;;;x
+temple_empire;Grand Directorate;Grand directorat;;;;;;;;;;;;x
+temple_empires;Grand Directorates;Grands directorats;;;;;;;;;;;;x
+temple_king;Director-General;Directeur-Général;;;;;;;;;;;;x
+temple_king_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+temple_king_foa;Director-General;Directeur-Général;;;;;;;;;;;;x
+temple_king_foa_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+temple_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+temple_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+temple_kingdom_of;Directorate of;Directorat de;;;;;;;;;;;;x
+temple_kingdom;Directorate;Directorat;;;;;;;;;;;;x
+temple_kingdoms;Directorates;Directorats;;;;;;;;;;;;x
+temple_duke;High Commissioner;Haut commissionneur;;;;;;;;;;;;x
+temple_duke_female;High Commissioner;Haute commissionneuse;;;;;;;;;;;;x
+temple_duke_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+temple_duke_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+temple_duke_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+temple_duke_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+temple_count;Commissioner;Commissionneur;;;;;;;;;;;;x
+temple_count_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+temple_count_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+temple_count_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+temple_count_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+temple_count_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+temple_baron;Administrator;Administrateur;;;;;;;;;;;;x
+temple_baron_female;Administrator;Administratrice;;;;;;;;;;;;x
+temple_baron_foa;Administrator;Administrateur;;;;;;;;;;;;x
+temple_baron_foa_female;Administrator;Administratrice;;;;;;;;;;;;x
+temple_baron_title_ruler_consort;Administrator's Spouse;Epoux;;;;;;;;;;;x
+temple_baron_title_ruler_consort_female;Administrator's Spouse;Dame;;;;;;;;;;;;x
+governor_emperor;Director-General;Directeur-Général;;;;;;;;;;;;x
+governor_emperor_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+governor_emperor_foa;Director-General;Monsieur le directeur-général;;;;;;;;;;;;x
+governor_emperor_foa_female;Director-General;Madame la directrice-général;;;;;;;;;;;;x
+governor_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+governor_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+governor_empire_of;Grand Directorate of;Grand directorat de;;;;;;;;;;;;x
+governor_empire;Grand Directorate;Grand directorat;;;;;;;;;;;;x
+governor_empires;Grand Directorates;Grands directorats;;;;;;;;;;;;x
+governor_king;Director-General;Directeur-Général;;;;;;;;;;;;x
+governor_king_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+governor_king_foa;Director-General;Directeur-Général;;;;;;;;;;;;x
+governor_king_foa_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+governor_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+governor_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+governor_kingdom_of;Directorate of;Directorat de;;;;;;;;;;;;x
+governor_kingdom;Directorate;Directorat;;;;;;;;;;;;x
+governor_kingdoms;Directorates;Directorats;;;;;;;;;;;;x
+governor_duke;High Commissioner;Haut commissionneur;;;;;;;;;;;;x
+governor_duke_female;High Commissioner;Haute commissionneuse;;;;;;;;;;;;x
+governor_duke_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+governor_duke_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+governor_duke_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+governor_duke_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+governor_count;Commissioner;Commissionneur;;;;;;;;;;;;x
+governor_count_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+governor_count_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+governor_count_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+governor_count_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+governor_count_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+governor_baron;Administrator;Administrateur;;;;;;;;;;;;x
+governor_baron_female;Administrator;Administratrice;;;;;;;;;;;;x
+governor_baron_foa;Administrator;Administrateur;;;;;;;;;;;;x
+governor_baron_foa_female;Administrator;Administratrice;;;;;;;;;;;;x
+governor_baron_title_ruler_consort;Administrator's Spouse;Epoux;;;;;;;;;;;x
+governor_baron_title_ruler_consort_female;Administrator's Spouse;Dame;;;;;;;;;;;;x
+theocratic_emperor;Patriarch;Directeur-Général;;;;;;;;;;;;x
+theocratic_emperor_female;Matriarch;Directrice-Général;;;;;;;;;;;;x
+theocratic_emperor_foa;Patriarch;Monsieur le directeur-général;;;;;;;;;;;;x
+theocratic_emperor_foa_female;Matriarch;Madame la directrice-général;;;;;;;;;;;;x
+theocratic_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+theocratic_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+theocratic_empire_of;Grand Theocracy of;Grand directorat de;;;;;;;;;;;;x
+theocratic_empire;Grand Theocracy;Grand directorat;;;;;;;;;;;;x
+theocratic_empires;Grand Theocracys;Grands directorats;;;;;;;;;;;;x
+theocratic_king;Cardinal;Directeur-Général;;;;;;;;;;;;x
+theocratic_king_female;Cardinal;Directrice-Général;;;;;;;;;;;;x
+theocratic_king_foa;Cardinal;Directeur-Général;;;;;;;;;;;;x
+theocratic_king_foa_female;Cardinal;Directrice-Général;;;;;;;;;;;;x
+theocratic_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+theocratic_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+theocratic_kingdom_of;Theocracy of;Directorat de;;;;;;;;;;;;x
+theocratic_kingdom;Theocracy;Directorat;;;;;;;;;;;;x
+theocratic_kingdoms;Theocracys;Directorats;;;;;;;;;;;;x
+theocratic_duke;Archbishop;Haut commissionneur;;;;;;;;;;;;x
+theocratic_duke_female;Archbishop;Haute commissionneuse;;;;;;;;;;;;x
+theocratic_duke_foa;Archbishop;Commissionneur;;;;;;;;;;;;x
+theocratic_duke_foa_female;Archbishop;Commissionneuse;;;;;;;;;;;;x
+theocratic_duke_title_ruler_consort;Archbishop's Spouse;Epoux;;;;;;;;;;;x
+theocratic_duke_title_ruler_consort_female;Archbishop's Spouse;Dame;;;;;;;;;;;;x
+theocratic_count;Bishop;Commissionneur;;;;;;;;;;;;x
+theocratic_count_female;Bishop;Commissionneuse;;;;;;;;;;;;x
+theocratic_count_foa;Bishop;Commissionneur;;;;;;;;;;;;x
+theocratic_count_foa_female;Bishop;Commissionneuse;;;;;;;;;;;;x
+theocratic_count_title_ruler_consort;Bishop's Spouse;Epoux;;;;;;;;;;;x
+theocratic_count_title_ruler_consort_female;Bishop's Spouse;Dame;;;;;;;;;;;;x
+theocratic_baron;Pastor;Administrateur;;;;;;;;;;;;x
+theocratic_baron_female;Pastor;Administratrice;;;;;;;;;;;;x
+theocratic_baron_foa;Pastor;Administrateur;;;;;;;;;;;;x
+theocratic_baron_foa_female;Pastor;Administratrice;;;;;;;;;;;;x
+theocratic_baron_title_ruler_consort;Pastor's Spouse;Epoux;;;;;;;;;;;x
+theocratic_baron_title_ruler_consort_female;Pastor' Spouse;Dame;;;;;;;;;;;;x
+rectorate_emperor;Grand Master;Directeur-Général;;;;;;;;;;;;x
+rectorate_emperor_female;Grand Master;Directrice-Général;;;;;;;;;;;;x
+rectorate_emperor_foa;Grand Master;Monsieur le directeur-général;;;;;;;;;;;;x
+rectorate_emperor_foa_female;Grand Master;Madame la directrice-général;;;;;;;;;;;;x
+rectorate_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+rectorate_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+rectorate_empire_of;Grand Rectorate of;Grand directorat de;;;;;;;;;;;;x
+rectorate_empire;Grand Rectorate;Grand directorat;;;;;;;;;;;;x
+rectorate_empires;Grand Rectorates;Grands directorats;;;;;;;;;;;;x
+rectorate_king;General Superior;Directeur-Général;;;;;;;;;;;;x
+rectorate_king_female;General Superior;Directrice-Général;;;;;;;;;;;;x
+rectorate_king_foa;General Superior;Directeur-Général;;;;;;;;;;;;x
+rectorate_king_foa_female;General Superior;Directrice-Général;;;;;;;;;;;;x
+rectorate_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+rectorate_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+rectorate_kingdom_of;Rectorate of;Directorat de;;;;;;;;;;;;x
+rectorate_kingdom;Rectorate;Directorat;;;;;;;;;;;;x
+rectorate_kingdoms;Rectorates;Directorats;;;;;;;;;;;;x
+rectorate_duke;Eparch;Haut commissionneur;;;;;;;;;;;;x
+rectorate_duke_female;Eparch;Haute commissionneuse;;;;;;;;;;;;x
+rectorate_duke_foa;Eparch;Commissionneur;;;;;;;;;;;;x
+rectorate_duke_foa_female;Eparch;Commissionneuse;;;;;;;;;;;;x
+rectorate_duke_title_ruler_consort;Eparch's Spouse;Epoux;;;;;;;;;;;x
+rectorate_duke_title_ruler_consort_female;Eparch's Spouse;Dame;;;;;;;;;;;;x
+rectorate_count;Provincial Superior;Commissionneur;;;;;;;;;;;;x
+rectorate_count_female;Provincial Superior;Commissionneuse;;;;;;;;;;;;x
+rectorate_count_foa;Provincial Superior;Commissionneur;;;;;;;;;;;;x
+rectorate_count_foa_female;Provincial Superior;Commissionneuse;;;;;;;;;;;;x
+rectorate_count_title_ruler_consort;Provincial Superior's Spouse;Epoux;;;;;;;;;;;x
+rectorate_count_title_ruler_consort_female;Provincial Superior's Spouse;Dame;;;;;;;;;;;;x
+rectorate_baron;Rector;Administrateur;;;;;;;;;;;;x
+rectorate_baron_female;Rectress;Administratrice;;;;;;;;;;;;x
+rectorate_baron_foa;Rector;Administrateur;;;;;;;;;;;;x
+rectorate_baron_foa_female;Rectress;Administratrice;;;;;;;;;;;;x
+rectorate_baron_title_ruler_consort;Rector's Spouse;Epoux;;;;;;;;;;;x
+rectorate_baron_title_ruler_consort_female;Rectress' Spouse;Dame;;;;;;;;;;;;x
+technocratic_emperor;Director-General;Directeur-Général;;;;;;;;;;;;x
+technocratic_emperor_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+technocratic_emperor_foa;Director-General;Monsieur le directeur-général;;;;;;;;;;;;x
+technocratic_emperor_foa_female;Director-General;Madame la directrice-général;;;;;;;;;;;;x
+technocratic_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+technocratic_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+technocratic_empire_of;Grand Directorate of;Grand directorat de;;;;;;;;;;;;x
+technocratic_empire;Grand Directorate;Grand directorat;;;;;;;;;;;;x
+technocratic_empires;Grand Directorates;Grands directorats;;;;;;;;;;;;x
+technocratic_king;Director-General;Directeur-Général;;;;;;;;;;;;x
+technocratic_king_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+technocratic_king_foa;Director-General;Directeur-Général;;;;;;;;;;;;x
+technocratic_king_foa_female;Director-General;Directrice-Général;;;;;;;;;;;;x
+technocratic_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+technocratic_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+technocratic_kingdom_of;Directorate of;Directorat de;;;;;;;;;;;;x
+technocratic_kingdom;Directorate;Directorat;;;;;;;;;;;;x
+technocratic_kingdoms;Directorates;Directorats;;;;;;;;;;;;x
+technocratic_duke;High Commissioner;Haut commissionneur;;;;;;;;;;;;x
+technocratic_duke_female;High Commissioner;Haute commissionneuse;;;;;;;;;;;;x
+technocratic_duke_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+technocratic_duke_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+technocratic_duke_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+technocratic_duke_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+technocratic_count;Commissioner;Commissionneur;;;;;;;;;;;;x
+technocratic_count_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+technocratic_count_foa;Commissioner;Commissionneur;;;;;;;;;;;;x
+technocratic_count_foa_female;Commissioner;Commissionneuse;;;;;;;;;;;;x
+technocratic_count_title_ruler_consort;Commissioner's Spouse;Epoux;;;;;;;;;;;x
+technocratic_count_title_ruler_consort_female;Commissioner's Spouse;Dame;;;;;;;;;;;;x
+technocratic_baron;Administrator;Administrateur;;;;;;;;;;;;x
+technocratic_baron_female;Administrator;Administratrice;;;;;;;;;;;;x
+technocratic_baron_foa;Administrator;Administrateur;;;;;;;;;;;;x
+technocratic_baron_foa_female;Administrator;Administratrice;;;;;;;;;;;;x
+technocratic_baron_title_ruler_consort;Administrator's Spouse;Epoux;;;;;;;;;;;x
+technocratic_baron_title_ruler_consort_female;Administrator's Spouse;Dame;;;;;;;;;;;;x
+PALACE_NAME;$DYNASTY$ Corporation;Corporation $DYNASTY$;;;;;;;;;;;;x
+family_palace;Corporation;Corporation;;;;;;;;;;;;x
+family_palace_baron;CEO;PDG;;;;;;;;;;;;x
+family_palace_baron_female;CEO;PDG;;;;;;;;;;;;x
+family_palace_baron_foa;Sir;Monsieur;;;;;;;;;;;;x
+family_palace_baron_foa_female;Ma;Madame;;;;;;;;;;;;;x
+family_palace_barony_of;Headquarters of;Quartier général de;;;;;;;;;;;;x
+family_palace_baron_deed;Chair of;Président de;;;;;;;;;;;;x
+tribal_emperor;President;Capitaine-Général;;;;;;;;;;;;x
+tribal_emperor_female;President;Capitaine-Général;;;;;;;;;;;;x
+tribal_emperor_foa;President;Capitaine-Général;;;;;;;;;;;;x
+tribal_emperor_foa_female;President;Capitaine-Général;;;;;;;;;;;;x
+tribal_emperor_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+tribal_empire_of;United Colonies of;Confédération de;;;;;;;;;;;;x
+tribal_empire;Union;Confédération;;;;;;;;;;;;x
+tribal_empires;Unions;Confédérations;;;;;;;;;;;;x
+tribal_king;Governor-General;Grand amiral;;;;;;;;;;;;x
+tribal_king_female;Governor-General;Grande amirale;;;;;;;;;;;;x
+tribal_king_foa;Governor;Amiral;;;;;;;;;;;;x
+tribal_king_foa_female;Governor;Amirale;;;;;;;;;;;;x
+tribal_king_title_ruler_consort;First Man;Epoux;;;;;;;;;;;x
+tribal_king_title_ruler_consort_female;First Lady;Première dame;;;;;;;;;;;;x
+tribal_kingdom_of;Dominion of;République de;;;;;;;;;;;;x
+tribal_kingdom;Dominion;République;;;;;;;;;;;;x
+tribal_kingdoms;Dominions;Républiques;;;;;;;;;;;;x
+tribal_duke;Colonial Governor;Amiral de flotte;;;;;;;;;;;;x
+tribal_duke_female;Colonial Governor;Amirale de flotte;;;;;;;;;;;;x
+tribal_duke_foa;Governor;Amiral;;;;;;;;;;;;x
+tribal_duke_foa_female;Governor;Amirale;;;;;;;;;;;;x
+tribal_duke_title_ruler_consort;Governor's Spouse;Epoux;;;;;;;;;;;x
+tribal_duke_title_ruler_consort_female;Governor's Spouse;Dame;;;;;;;;;;;;x
+tribal_duchy_of;Colonial Sector;Secteur;;;;;;;;;;;;x
+tribal_duchy;Colonial Sector;Secteur;;;;;;;;;;;;x
+tribal_duchies;Colonial Sectors;Secteurs;;;;;;;;;;;;x
+tribal_count;Colonial Magistrate;Commandant;;;;;;;;;;;;x
+tribal_count_female;Colonial Magistrate;Commandante;;;;;;;;;;;;x
+tribal_count_foa;Magistrate;Commandant;;;;;;;;;;;;x
+tribal_count_foa_female;Magistrate;Commandante;;;;;;;;;;;;x
+tribal_count_title_ruler_consort;Magistrate's Spouse;Epoux;;;;;;;;;;;x
+tribal_count_title_ruler_consort_female;Magistrate's Spouse;Dame;;;;;;;;;;;;x
+tribal_county_of;Star System;Système stellaire;;;;;;;;;;;;x
+tribal_county;System;Système;;;;;;;;;;;;x
+tribal_counties;Systems;Systèmes;;;;;;;;;;;;x
+tribal_baron;Colonial Magistrate;Commandant;;;;;;;;;;;;x
+tribal_baron_female;Colonial Magistrate;Commandante;;;;;;;;;;;;x
+tribal_baron_foa;Magistrate;Commandant;;;;;;;;;;;;x
+tribal_baron_foa_female;Magistrate;Commandante;;;;;;;;;;;;x
+tribal_baron_title_ruler_consort;Magistrate's Spouse;Epoux;;;;;;;;;;;x
+tribal_baron_title_ruler_consort_female;Magistrate's Spouse;Dame;;;;;;;;;;;;x
+tribal_barony_of;Colony of;Planète;;;;;;;;;;;;x
+tribal_barony;Colony;Planète;;;;;;;;;;;;x
+tribal_baronies;Colonies;Planètes;;;;;;;;;;;;x
+emperor_neo_socialist;First Chairman;;;;;;;;;;;;;x
+emperor_female_neo_socialist;First Chairwoman;;;;;;;;;;;;;x
+emperor_foa_neo_socialist;Comrade Chairman;;;;;;;;;;;;;x
+emperor_foa_female_neo_socialist;Comrade Chairwoman;;;;;;;;;;;;;x
+empire_of_neo_socialist;People's Union of;;;;;;;;;;;;;x
+empire_neo_socialist;Union;;;;;;;;;;;;;x
+empires_neo_socialist;Unions;;;;;;;;;;;;;x
+king_neo_socialist;Chairman;;;;;;;;;;;;;x
+king_female_neo_socialist;Chairwoman;;;;;;;;;;;;;x
+king_foa_neo_socialist;Comrade Chairman;;;;;;;;;;;;;x
+king_foa_female_neo_socialist;Comrade Chairwoman;;;;;;;;;;;;;x
+kingdom_of_neo_socialist;People's Republic of;;;;;;;;;;;;;x
+kingdom_neo_socialist;Republic;;;;;;;;;;;;;x
+kingdoms_neo_socialist;Republics;;;;;;;;;;;;;x
+military_emperor_neo_socialist;Captain-General;;;;;;;;;;;;;x
+military_emperor_female_neo_socialist;Captain-General;;;;;;;;;;;;;x
+military_emperor_foa_neo_socialist;Comrade Captain;;;;;;;;;;;;;x
+military_emperor_foa_female_neo_socialist;Comrade Captain;;;;;;;;;;;;;x
+military_empire_of_neo_socialist;People's Revolutionary Union of;;;;;;;;;;;;;x
+military_empire_neo_socialist;Union;;;;;;;;;;;;;x
+military_empires_neo_socialist;Unions;;;;;;;;;;;;;x
+military_king_neo_socialist;Chairman;;;;;;;;;;;;;x
+military_king_female_neo_socialist;Chairwoman;;;;;;;;;;;;;x
+military_king_foa_neo_socialist;Comrade Chairman;;;;;;;;;;;;;x
+military_king_foa_female_neo_socialist;Comrade Chairwoman;;;;;;;;;;;;;x
+military_kingdom_of_neo_socialist;People's Revolutionary State of;;;;;;;;;;;;;x
+military_kingdom_neo_socialist;State;;;;;;;;;;;;;x
+military_kingdoms_neo_socialist;States;;;;;;;;;;;;;x
+military_duke_foa_neo_socialist;Comrade Admiral;;;;;;;;;;;;;x
+military_duke_foa_female_neo_socialist;Comrade Admiral;;;;;;;;;;;;;x
+military_count_foa_neo_socialist;Comrade Admiral;;;;;;;;;;;;;x
+military_count_foa_female_neo_socialist;Comrade Admiral;;;;;;;;;;;;;x
+military_baron_foa_neo_socialist;Comrade Commandant;;;;;;;;;;;;;x
+military_baron_foa_female_neo_socialist;Comrade Commandant;;;;;;;;;;;;;x
+rectorate_emperor_neo_socialist;Secretary-General;;;;;;;;;;;;;x
+rectorate_emperor_female_neo_socialist;Secretary-General;;;;;;;;;;;;;x
+rectorate_emperor_foa_neo_socialist;Comrade Secretary;;;;;;;;;;;;;x
+rectorate_emperor_foa_female_neo_socialist;Comrade Secretary;;;;;;;;;;;;;x
+rectorate_empire_of_neo_socialist;People's Union of;;;;;;;;;;;;;x
+rectorate_empire_neo_socialist;Union;;;;;;;;;;;;;x
+rectorate_empires_neo_socialist;Unions;;;;;;;;;;;;;x
+rectorate_king_neo_socialist;Secretary;;;;;;;;;;;;;x
+rectorate_king_female_neo_socialist;Secretary;;;;;;;;;;;;;x
+rectorate_king_foa_neo_socialist;Comrade Secretary;;;;;;;;;;;;;x
+rectorate_king_foa_female_neo_socialist;Comrade Secretary;;;;;;;;;;;;;x
+rectorate_kingdom_of_neo_socialist;People's State of;;;;;;;;;;;;;x
+rectorate_kingdom_neo_socialist;State;;;;;;;;;;;;;x
+rectorate_kingdoms_neo_socialist;States;;;;;;;;;;;;;x
+family_palace_neo_socialist;Bureau;;;;;;;;;;;;;x
+family_palace_baron_neo_socialist;Director;;;;;;;;;;;;;x
+family_palace_baron_female_neo_socialist;Director;;;;;;;;;;;;;x
+family_palace_baron_foa_neo_socialist;Comrade Director;;;;;;;;;;;;;x
+family_palace_baron_foa_female_neo_socialist;Comrade Director;;;;;;;;;;;;;;x
+family_palace_barony_of_neo_socialist;Headquarters of;Quartier général de;;;;;;;;;;;;x
+family_palace_baron_deed_neo_socialist;Chair of;;;;;;;;;;;;;x
+temple_count_religious_group;Abbot;;;;;;;;;;;;;x
+temple_count_female_religious_group;Abbess;;;;;;;;;;;;;x
+temple_count_foa_religious_group;Father;;;;;;;;;;;;;x
+temple_count_foa_female_religious_group;Mother;;;;;;;;;;;;;x
+temple_count_title_ruler_consort_religious_group;Abbess's Spouse;;;;;;;;;;;;;x
+temple_count_title_ruler_consort_female_religious_group;Abbot's Spouse;;;;;;;;;;;;;x
+temple_baron_religious_group;Abbot;;;;;;;;;;;;;x
+temple_baron_female_religious_group;Abbess;;;;;;;;;;;;;x
+temple_baron_foa_religious_group;Father;;;;;;;;;;;;;x
+temple_baron_foa_female_religious_group;Mother;;;;;;;;;;;;;x
+temple_baron_title_ruler_consort_religious_group;Abbess's Spouse;;;;;;;;;;;;;x
+temple_baron_title_ruler_consort_female_religious_group;Abbot's Spouse;;;;;;;;;;;;;x
+temple_barony_of_religious_group;Shrine World;;;;;;;;;;;;;x
+temple_barony_religious_group;Shrine World;;;;;;;;;;;;;x
+temple_baronies_religious_group;Shrine Worlds;;;;;;;;;;;;;x
+temple_emperor_orthodox;Emperor-Bishop;;;;;;;;;;;;;x
+temple_emperor_female_orthodox;Empress-Bishop;;;;;;;;;;;;;x
+temple_emperor_foa_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_emperor_foa_female_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_empire_of_orthodox;Holy Empire of;;;;;;;;;;;;;x
+temple_empires_orthodox;Empires;;;;;;;;;;;;;x
+temple_empire_orthodox;Holy Empire;;;;;;;;;;;;;x
+temple_king_orthodox;Prince-Bishop;;;;;;;;;;;;;x
+temple_king_female_orthodox;Princess-Bishop;;;;;;;;;;;;;x
+temple_king_foa_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_king_foa_female_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_kingdom_of_orthodox;Holy Realm of;;;;;;;;;;;;;x
+temple_kingdoms_orthodox;Realms;;;;;;;;;;;;;x
+temple_kingdom_orthodox;Holy Realm;;;;;;;;;;;;;x
+temple_duke_orthodox;Metroplanoan;;;;;;;;;;;;;x
+temple_duke_female_orthodox;Metroplanoan;;;;;;;;;;;;;x
+temple_duke_foa_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_duke_foa_female_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_duchy_of_orthodox;Metroplanao of;;;;;;;;;;;;;x
+temple_duchies_orthodox;Metroplanaoa;;;;;;;;;;;;;x
+temple_duchy_orthodox;Metroplanao;;;;;;;;;;;;;x
+temple_count_orthodox;Archbishop;;;;;;;;;;;;;x
+temple_count_female_orthodox;Archbishop;;;;;;;;;;;;;x
+temple_count_foa_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_count_foa_female_orthodox;Your Holiness;;;;;;;;;;;;;x
+temple_county_of_orthodox;Archbishopric of;;;;;;;;;;;;;x
+temple_counties_orthodox;Archbishoprics;;;;;;;;;;;;;x
+temple_county_orthodox;Archbishopric;;;;;;;;;;;;;x
+temple_baron_orthodox;Bishop;;;;;;;;;;;;;x
+temple_baron_female_orthodox;Bishop;;;;;;;;;;;;;x
+temple_emperor_solarian;Pater;;;;;;;;;;;;;x
+temple_emperor_female_solarian;Mater;;;;;;;;;;;;;x
+temple_emperor_foa_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_emperor_foa_female_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_empire_of_solarian;Holy Empire of;;;;;;;;;;;;;x
+temple_empires_solarian;Empires;;;;;;;;;;;;;x
+temple_empire_solarian;Holy Empire;;;;;;;;;;;;;x
+temple_king_solarian;Perses;;;;;;;;;;;;;x
+temple_king_female_solarian;Perses;;;;;;;;;;;;;x
+temple_king_foa_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_king_foa_female_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_kingdom_of_solarian;Holy Realm of;;;;;;;;;;;;;x
+temple_kingdoms_solarian;Realms;;;;;;;;;;;;;x
+temple_kingdom_solarian;Holy Realm;;;;;;;;;;;;;x
+temple_duke_solarian;Leo;;;;;;;;;;;;;x
+temple_duke_female_solarian;Lea;;;;;;;;;;;;;x
+temple_duke_foa_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_duke_foa_female_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_duchy_of_solarian;Pride of;;;;;;;;;;;;;x
+temple_duchies_solarian;Prides;;;;;;;;;;;;;x
+temple_duchy_solarian;Pride;;;;;;;;;;;;;x
+temple_count_solarian;Miles;;;;;;;;;;;;;x
+temple_count_female_solarian;Miles;;;;;;;;;;;;;x
+temple_count_foa_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_count_foa_female_solarian;Your Holiness;;;;;;;;;;;;;x
+temple_county_of_solarian;Milate of;;;;;;;;;;;;;x
+temple_counties_solarian;Milates;;;;;;;;;;;;;x
+temple_county_solarian;Milate;;;;;;;;;;;;;x
+temple_baron_solarian;Nymphus;;;;;;;;;;;;;x
+temple_baron_female_solarian;Nympha;;;;;;;;;;;;;x
+pirate_kingdom_emperor;Shadow Emperor;;;;;;;;;;;;;x
+pirate_kingdom_emperor_female;Shadow Empress;;;;;;;;;;;;;x
+pirate_kingdom_empire_of;Shadow Empire of;;;;;;;;;;;;;x
+pirate_kingdom_empires;Empires;;;;;;;;;;;;;x
+pirate_kingdom_empire;Empire;;;;;;;;;;;;;x
+pirate_kingdom_king;Pirate King;;;;;;;;;;;;;x
+pirate_kingdom_king_female;Pirate Queen;;;;;;;;;;;;;x
+pirate_kingdom_king_title_ruler_consort;Pirate Consort;;;;;;;;;;;;;x
+pirate_kingdom_king_title_ruler_consort_female;Pirate Consort;;;;;;;;;;;;;x
+pirate_kingdom_kingdom_of;Pirate Kingdom of;;;;;;;;;;;;;x
+pirate_kingdom_kingdoms;Pirate Kingdoms;;;;;;;;;;;;;x
+pirate_kingdom_kingdom;Pirate Kingdom;;;;;;;;;;;;;x
+pirate_kingdom_king_deed;Control of;;;;;;;;;;;;;x
+pirate_kingdom_duke;Pirate Overlord;;;;;;;;;;;;;x
+pirate_kingdom_duke_female;Pirate Overlord;;;;;;;;;;;;;x
+pirate_kingdom_duke_deed;Control of;;;;;;;;;;;;;x
+pirate_kingdom_count;Pirate Lord;;;;;;;;;;;;;x
+pirate_kingdom_count_female;Pirate Lady;;;;;;;;;;;;;x
+pirate_republic_emperor;Shadow Emperor;;;;;;;;;;;;;x
+pirate_republic_emperor_female;Shadow Empress;;;;;;;;;;;;;x
+pirate_republic_empire_of;Cartel of;;;;;;;;;;;;;x
+pirate_republic_empires;Cartels;;;;;;;;;;;;;x
+pirate_republic_empire;Cartel;;;;;;;;;;;;;x
+pirate_republic_king;Kingpin;;;;;;;;;;;;;x
+pirate_republic_king_female;Queenpin;;;;;;;;;;;;;x
+pirate_republic_kingdom_of;Syndicate of;;;;;;;;;;;;;x
+pirate_republic_kingdoms;Syndicates;;;;;;;;;;;;;x
+pirate_republic_kingdom;Syndicate;;;;;;;;;;;;;x
+pirate_republic_duke;Enforcer;;;;;;;;;;;;;x
+pirate_republic_duke_female;Enforcer;;;;;;;;;;;;;x
+pirate_republic_duke_title_ruler_consort;Consort;;;;;;;;;;;;;x
+pirate_republic_duke_title_ruler_consort_female;Consort;;;;;;;;;;;;;x
+pirate_republic_duke_deed;Control of;;;;;;;;;;;;;x
+pirate_republic_county_of;Freeport;;;;;;;;;;;;;x
+pirate_republic_counties;Freeports;;;;;;;;;;;;;x
+pirate_republic_county;Freeport;;;;;;;;;;;;;x
+pirate_republic_governor_emperor;Shadow Emperor;;;;;;;;;;;;;x
+pirate_republic_governor_emperor_female;Shadow Empress;;;;;;;;;;;;;x
+pirate_republic_governor_empire_of;Cartel of;;;;;;;;;;;;;x
+pirate_republic_governor_empires;Cartels;;;;;;;;;;;;;x
+pirate_republic_governor_empire;Cartel;;;;;;;;;;;;;x
+pirate_republic_governor_king;Kingpin;;;;;;;;;;;;;x
+pirate_republic_governor_king_female;Queenpin;;;;;;;;;;;;;x
+pirate_republic_governor_kingdom_of;Syndicate of;;;;;;;;;;;;;x
+pirate_republic_governor_kingdoms;Syndicates;;;;;;;;;;;;;x
+pirate_republic_governor_kingdom;Syndicate;;;;;;;;;;;;;x
+pirate_republic_governor_duke;Enforcer;;;;;;;;;;;;;x
+pirate_republic_governor_duke_female;Enforcer;;;;;;;;;;;;;x
+pirate_republic_governor_duke_title_ruler_consort;Consort;;;;;;;;;;;;;x
+pirate_republic_governor_duke_title_ruler_consort_female;Consort;;;;;;;;;;;;;x
+pirate_republic_governor_duke_deed;Control of;;;;;;;;;;;;;x
+pirate_republic_count;Enforcer;;;;;;;;;;;;;x
+pirate_republic_count_female;Enforcer;;;;;;;;;;;;;x
+pirate_republic_governor_count;Regional Enforcer;;;;;;;;;;;;;x
+pirate_republic_governor_count_female;Regional Enforcer;;;;;;;;;;;;;x
+pirate_republic_governor_county_of;Freeport;;;;;;;;;;;;;x
+pirate_republic_governor_counties;Freeports;;;;;;;;;;;;;x
+pirate_republic_governor_county;Freeport;;;;;;;;;;;;;x
+title_prince;VIP;;;;;;;;;;;;;x
+title_prince_female;VIP;;;;;;;;;;;;;x
+title_prince_royal;Prince;;;;;;;;;;;;;x
+title_prince_royal_female;Princess;;;;;;;;;;;;;x
+hive_emperor;C0 Node;;;;;;;;;;;;;x
+hive_emperor_female;C0 Node;;;;;;;;;;;;;x
+hive_emperor_foa;C0;;;;;;;;;;;;;x
+hive_emperor_foa_female;C0;;;;;;;;;;;;;x
+hive_empire_of;C0 Network;;;;;;;;;;;;;x
+hive_empire;C0 Network;;;;;;;;;;;;;x
+hive_empires;C0 Networks;;;;;;;;;;;;;x
+hive_king;C1 Node;;;;;;;;;;;;;x
+hive_king_female;C1 Node;;;;;;;;;;;;;x
+hive_king_foa;C1;;;;;;;;;;;;;x
+hive_king_foa_female;C1;;;;;;;;;;;;;x
+hive_kingdom_of;C1 Network;;;;;;;;;;;;;x
+hive_kingdom;C1 Network;;;;;;;;;;;;;x
+hive_kingdoms;C1 Networks;;;;;;;;;;;;;x
+hive_duke;C2 Node;;;;;;;;;;;;;x
+hive_duke_female;C2 Node;;;;;;;;;;;;;x
+hive_duke_foa;C2;;;;;;;;;;;;;x
+hive_duke_foa_female;C2;;;;;;;;;;;;;x
+hive_duchy_of;C2 Network;;;;;;;;;;;;;x
+hive_duchy;C2 Network;;;;;;;;;;;;;x
+hive_duchies;C2 Networks;;;;;;;;;;;;;x
+hive_count;CS Node;;;;;;;;;;;;;x
+hive_count_female;CS Node;;;;;;;;;;;;;x
+hive_count_foa;CS;;;;;;;;;;;;;x
+hive_count_foa_female;CS;;;;;;;;;;;;;x
+hive_county_of;CS Network;;;;;;;;;;;;;x
+hive_county;CS Network;;;;;;;;;;;;;x
+hive_counties;CS Networks;;;;;;;;;;;;;x
+hive_baron;CP Node;;;;;;;;;;;;;x
+hive_baron_female;CP Node;;;;;;;;;;;;;x
+hive_baron_foa;CP;;;;;;;;;;;;;x
+hive_baron_foa_female;CP;;;;;;;;;;;;;x
+hive_barony_of;CP Network;;;;;;;;;;;;;x
+hive_barony;CP Network;;;;;;;;;;;;;x
+hive_baronies;CP Networks;;;;;;;;;;;;;x
+monarchy_emperor_imperial_cult;God-Emperor;;;;;;;;;;;;;x
+monarchy_emperor_imperial_cult_female;God-Empress;;;;;;;;;;;;;x
+monarchy_emperor_foa_imperial_cult;Your Holiness;;;;;;;;;;;;;x
+monarchy_emperor_foa_imperial_cult_female;Your Holiness;;;;;;;;;;;;;x
+monarchy_emperor_title_ruler_consort_imperial_cult;Emperor Consort;;;;;;;;;;;;;x
+monarchy_emperor_title_ruler_consort_imperial_cult_female;Empress Consort;;;;;;;;;;;;;x
+monarchy_empire_of_imperial_cult;Holy Empire of;;;;;;;;;;;;;x
+monarchy_empire_imperial_cult;Holy Empire;;;;;;;;;;;;;x
+monarchy_empires_imperial_cult;Holy Empires;;;;;;;;;;;;;x
+monarchy_king_imperial_cult;God-King;;;;;;;;;;;;;x
+monarchy_king_imperial_cult_female;God-Queen;;;;;;;;;;;;;x
+monarchy_king_foa_imperial_cult;Your Holiness;;;;;;;;;;;;;x
+monarchy_king_foa_imperial_cult_female;Your Holiness;;;;;;;;;;;;;x
+monarchy_king_title_ruler_consort_imperial_cult;King Consort;;;;;;;;;;;;;x
+monarchy_king_title_ruler_consort_imperial_cult_female;Queen Consort;;;;;;;;;;;;;x
+monarchy_kingdom_of_imperial_cult;Holy Kingdom of;;;;;;;;;;;;;x
+monarchy_kingdom_imperial_cult;Holy Kingdom;;;;;;;;;;;;;x
+monarchy_kingdoms_imperial_cult;Holy Kingdoms;;;;;;;;;;;;;x
+monarchy_duke_imperial_cult;Seraph;;;;;;;;;;;;;x
+monarchy_duke_imperial_cult_female;Seraph;;;;;;;;;;;;;x
+monarchy_duke_foa_imperial_cult;Your Grace;;;;;;;;;;;;;x
+monarchy_duke_foa_imperial_cult_female;Your Grace;;;;;;;;;;;;;x
+monarchy_duke_title_ruler_consort_imperial_cult;Seraph's Consort;;;;;;;;;;;;;x
+monarchy_duke_title_ruler_consort_imperial_cult_female;Seraph's Consort;;;;;;;;;;;;;x
+monarchy_duchy_of_imperial_cult;Seraphate of;;;;;;;;;;;;;x
+monarchy_duchy_imperial_cult;Seraphate;;;;;;;;;;;;;x
+monarchy_duchies_imperial_cult;Seraphates;;;;;;;;;;;;;x
+monarchy_monarchy_count_imperial_cult;Guardian;;;;;;;;;;;;;x
+monarchy_count_imperial_cult_female;Guardian;;;;;;;;;;;;;x
+monarchy_count_foa_imperial_cult;My Lord;;;;;;;;;;;;;x
+monarchy_count_foa_imperial_cult_female;My Lady;;;;;;;;;;;;;x
+monarchy_count_title_ruler_consort_imperial_cult;Guardian's Consort;;;;;;;;;;;;;x
+monarchy_count_title_ruler_consort_imperial_cult_female;Guardian's Consort;;;;;;;;;;;;;x
+monarchy_baron_imperial_cult;Warden;;;;;;;;;;;;;x
+monarchy_baron_imperial_cult_female;Warden;;;;;;;;;;;;;x
+monarchy_baron_foa_imperial_cult;My Lord;;;;;;;;;;;;;x
+monarchy_baron_foa_imperial_cult_female;My Lady;;;;;;;;;;;;;x
+monarchy_baron_title_ruler_consort_imperial_cult;Warden's Consort;;;;;;;;;;;;;x
+monarchy_baron_title_ruler_consort_imperial_cult_female;Warden's Consort;;;;;;;;;;;;;x
+temple_emperor_imperial_cult;God-Emperor;;;;;;;;;;;;;x
+temple_emperor_imperial_cult_female;God-Empress;;;;;;;;;;;;;x
+temple_emperor_foa_imperial_cult;Your Holiness;;;;;;;;;;;;;x
+temple_emperor_foa_imperial_cult_female;Your Holiness;;;;;;;;;;;;;x
+temple_emperor_title_ruler_consort_imperial_cult;Emperor Consort;;;;;;;;;;;;;x
+temple_emperor_title_ruler_consort_imperial_cult_female;Empress Consort;;;;;;;;;;;;;x
+temple_empire_of_imperial_cult;Holy Empire of;;;;;;;;;;;;;x
+temple_empire_imperial_cult;Holy Empire;;;;;;;;;;;;;x
+temple_empires_imperial_cult;Holy Empires;;;;;;;;;;;;;x
+temple_king_imperial_cult;God-King;;;;;;;;;;;;;x
+temple_king_imperial_cult_female;God-Queen;;;;;;;;;;;;;x
+temple_king_foa_imperial_cult;Your Holiness;;;;;;;;;;;;;x
+temple_king_foa_imperial_cult_female;Your Holiness;;;;;;;;;;;;;x
+temple_king_title_ruler_consort_imperial_cult;King Consort;;;;;;;;;;;;;x
+temple_king_title_ruler_consort_imperial_cult_female;Queen Consort;;;;;;;;;;;;;x
+temple_kingdom_of_imperial_cult;Holy Kingdom of;;;;;;;;;;;;;x
+temple_kingdom_imperial_cult;Holy Kingdom;;;;;;;;;;;;;x
+temple_kingdoms_imperial_cult;Holy Kingdoms;;;;;;;;;;;;;x
+temple_duke_imperial_cult;Apostle;;;;;;;;;;;;;x
+temple_duke_imperial_cult_female;Apostle;;;;;;;;;;;;;x
+temple_duke_foa_imperial_cult;Your Grace;;;;;;;;;;;;;x
+temple_duke_foa_imperial_cult_female;Your Grace;;;;;;;;;;;;;x
+temple_duke_title_ruler_consort_imperial_cult;Apostle's Consort;;;;;;;;;;;;;x
+temple_duke_title_ruler_consort_imperial_cult_female;Apostle's Consort;;;;;;;;;;;;;x
+temple_duchy_of_imperial_cult;See of;;;;;;;;;;;;;x
+temple_duchy_imperial_cult;See;;;;;;;;;;;;;x
+temple_duchies_imperial_cult;Sees;;;;;;;;;;;;;x
+temple_count_imperial_cult;Archbishop;;;;;;;;;;;;;x
+temple_count_imperial_cult_female;Archbishop;;;;;;;;;;;;;x
+temple_count_foa_imperial_cult;My Lord;;;;;;;;;;;;;x
+temple_count_foa_imperial_cult_female;My Lady;;;;;;;;;;;;;x
+temple_count_title_ruler_consort_imperial_cult;Archbishop's Consort;;;;;;;;;;;;;x
+temple_count_title_ruler_consort_imperial_cult_female;Archbishop's Consort;;;;;;;;;;;;;x
+temple_baron_imperial_cult;Bishop;;;;;;;;;;;;;x
+temple_baron_imperial_cult_female;Bishop;;;;;;;;;;;;;x
+temple_baron_foa_imperial_cult;My Lord;;;;;;;;;;;;;x
+temple_baron_foa_imperial_cult_female;My Lady;;;;;;;;;;;;;x
+temple_baron_title_ruler_consort_imperial_cult;Bishop's Consort;;;;;;;;;;;;;x
+temple_baron_title_ruler_consort_imperial_cult_female;Bishop's Consort;;;;;;;;;;;;;x
+job_prime;Prime Secretary;Secrétaire de l'état;;;;;;;;;;;;x
+job_chancellor;Secretary of State;Secrétaire de l'état;;;;;;;;;;;;x
+job_solidarity;Secretary of Ecology and Solidarity;Secrétaire de la défense;;;;;;;;;;;;x
+job_justice;Secretary of Justice;Secrétaire de la défense;;;;;;;;;;;;x
+job_marshal;Secretary of Defense;Secrétaire de la défense;;;;;;;;;;;;x
+job_foreign;Secretary of Foreign Affairs;Secrétaire de la défense;;;;;;;;;;;;x
+job_treasurer;Secretary of the Treasury;Secrétaire du budget;;;;;;;;;;;;x
+job_spymaster;Secretary of Intelligence;Secrétaire du renseignement;;;;;;;;;;;;x
+job_spiritual;Secretary of Technology;Secrétaire de la recherche;;;;;;;;;;;;x
+military_job_chancellor;Press Secretary;Secrétaire de l'état;;;;;;;;;;;;x
+military_job_marshal;Chief of Staff;Secrétaire de la défense;;;;;;;;;;;;x
+military_job_treasurer;Chief Quartermaster;Secrétaire du budget;;;;;;;;;;;;x
+military_job_spymaster;Chief of Intelligence;Secrétaire du renseignement;;;;;;;;;;;;x
+military_job_spiritual;Chief of Development;Secrétaire de la recherche;;;;;;;;;;;;x
+monarchy_job_chancellor;Minister of State;Ministre de l'état;;;;;;;;;;;;x
+monarchy_job_marshal;Minister of War;Ministre de la défense;;;;;;;;;;;;x
+monarchy_job_treasurer;Minister of the Treasury;Ministre du budget;;;;;;;;;;;;x
+monarchy_job_spymaster;Minister of Intelligence;Ministre du renseignement;;;;;;;;;;;;x
+monarchy_job_spiritual;Minister of Technology;Ministre de la recherche;;;;;;;;;;;;x
+monarchy_job_chancellor_neo_feudal;Chancellor;Chancellier;;;;;;;;;;;;x
+monarchy_job_marshal_neo_feudal;Marshal;Maréchal;;;;;;;;;;;;x
+monarchy_job_treasurer_neo_feudal;Steward;Intendant;;;;;;;;;;;;x
+monarchy_job_spymaster_neo_feudal;Spymaster;Maître espion;;;;;;;;;;;;x
+monarchy_job_spiritual_neo_feudal;Minister of Technology;Savant;;;;;;;;;;;;x
+pirate_kingdom_job_chancellor;First Mate;;;;;;;;;;;;;x
+pirate_kingdom_job_marshal;Chief Tactical Officer;;;;;;;;;;;;;x
+pirate_kingdom_job_treasurer;Chief Quartermaster;;;;;;;;;;;;;x
+pirate_kingdom_job_spymaster;Chief Signals Officer;;;;;;;;;;;;;x
+pirate_kingdom_job_spiritual;Chief Engineer;;;;;;;;;;;;;x
+pirate_republic_job_chancellor;Consigliere;;;;;;;;;;;;;x
+pirate_republic_job_marshal;Chief Enforcer;;;;;;;;;;;;;x
+pirate_republic_job_treasurer;Chief Quartermaster;;;;;;;;;;;;;x
+pirate_republic_job_spymaster;Spymaster;;;;;;;;;;;;;x
+pirate_republic_job_spiritual;Chief Engineer;;;;;;;;;;;;;x
+hive_job_chancellor;Primary Interface Node;;;;;;;;;;;;;x
+hive_job_marshal;Primary Combat Node;;;;;;;;;;;;;x
+hive_job_treasurer;Primary Infrastructure Node;;;;;;;;;;;;;x
+hive_job_spymaster;Secondary Interface Node;;;;;;;;;;;;;x
+hive_job_spiritual;Secondary Infrastructure Node;;;;;;;;;;;;;x
+GRANDADMIRAL;Grand Admiral;Grand amiral;;;;;;;;;;;;x
+GRANDADMIRALFOA;Admiral;Amiral;;;;;;;;;;;;x
+GRANDADMIRAL_female;Grand Admiral;Grand amiral;;;;;;;;;;;;x
+GRANDADMIRALFOA_female;Admiral;Amiral;;;;;;;;;;;;x
+FLEETADMIRAL;Fleet Admiral;Amiral de flotte;;;;;;;;;;;;x
+FLEETADMIRALFOA;Admiral;Amiral;;;;;;;;;;;;x
+FLEETADMIRAL_female;Fleet Admiral;Amiral de flotte;;;;;;;;;;;;x
+FLEETADMIRALFOA_female;Admiral;Amiral;;;;;;;;;;;;x
+FLEET_COMMAND;Fleet Command;Commandement de la Flotte;;;;;;;;;;;;x
+GRAND_FLEET_COMMAND;Grand Fleet Command;Grand Commandement de la Flotte;;;;;;;;;;;;x
+MASTER;Master;;;;;;;;;;;;;x
+MASTERFOA;Father;;;;;;;;;;;;;x
+MASTER_female;Mistress;;;;;;;;;;;;;x
+MASTERFOA_female;Mother;;;;;;;;;;;;;x
+PATRIARCH;Patriarch;;;;;;;;;;;;;x
+PATRIARCHFOA;Your Holiness;;;;;;;;;;;;;x
+PATRIARCH_female;Matriarch;;;;;;;;;;;;;x
+PATRIARCHFOA_female;Your Holiness;;;;;;;;;;;;;x
+PHAETHON;Phaethon;;;;;;;;;;;;;x
+PHAETHONFOA;Your Holiness;;;;;;;;;;;;;x
+FABRICATOR;Fabricator-General;;;;;;;;;;;;;x
+FABRICATORFOA;Your Holiness;;;;;;;;;;;;;x
+DARWIN;Darwin;;;;;;;;;;;;;x
+DARWINFOA;Your Dominance;;;;;;;;;;;;;x
+GRANDMASTER;Grandmaster;;;;;;;;;;;;;x
+GRANDMASTERFOA;Master;;;;;;;;;;;;;x
+GRANDMASTER_female;Grandmistress;;;;;;;;;;;;;x
+GRANDMASTERFOA_female;Mistress;;;;;;;;;;;;;x
+MAYOR;Mayor;;;;;;;;;;;;;x
+MAYORFOA;Mister Mayor;;;;;;;;;;;;;x
+MAYOR_female;Mayor;;;;;;;;;;;;;x
+MAYORFOA_female;Madam Mayor;;;;;;;;;;;;;x
+title_speaker;Speaker;;;;;;;;;;;;;x
+title_speaker_desc;The Speaker is the official who coordinates the day-to-day operations of the Senate. While the position has no political power, it is somewhat prestigious.;;;;;;;;;;;;;x
+title_minister_without_portfolio;Minister Without Portfolio;;;;;;;;;;;;;x
+title_minister_without_portfolio_desc;Ministers Without Portfolio have no official day to day duties, but still occupy a position of prestige and have the ear of the government.;;;;;;;;;;;;;x
+title_poet_laureate;Poet Laureate;;;;;;;;;;;;;x
+title_poet_laureate_desc;The poet laureate is the official state poet, responsible for composing poems for special events and occasions.;;;;;;;;;;;;;x
+title_vp_robotics;VP Robotics;;;;;;;;;;;;;x
+title_vp_robotics_desc;This official is charged with managing their employing corporation's robotics division.;;;;;;;;;;;;;x
+title_vp_industrial_engineering;VP Industrial Engineering;;;;;;;;;;;;;x
+title_vp_industrial_engineering_desc;This official is charged with managing their employing corporation's industrial engineering division.;;;;;;;;;;;;;x
+title_vp_consumer_goods;VP Consumer Goods;;;;;;;;;;;;;x
+title_vp_consumer_goods_desc;This official is charged with managing their employing corporation's consumer goods division.;;;;;;;;;;;;;x
+title_vp_transportation;VP Transportation;;;;;;;;;;;;;x
+title_vp_transportation_desc;This official is charged with managing their employing corporation's transportation division.;;;;;;;;;;;;;x
+title_vp_defense_industries;VP Munitions;;;;;;;;;;;;;x
+title_vp_defense_industries_desc;This official is charged with managing their employing corporation's weapons division.;;;;;;;;;;;;;x
+title_vp_financial;VP Financial Services;;;;;;;;;;;;;x
+title_vp_financial_desc;This official is charged with managing their employing corporation's financial services division.;;;;;;;;;;;;;x
+title_vp_biotech;VP Biotech;;;;;;;;;;;;;x
+title_vp_biotech_desc;This official is charged with managing their employing corporation's biotechnology division.;;;;;;;;;;;;;x
+title_vp_luxury_goods;VP Luxury Goods;;;;;;;;;;;;;x
+title_vp_luxury_goods_desc;This official is charged with managing their employing corporation's luxury goods division.;;;;;;;;;;;;;x
+title_medal;Medal of Distinction;;;;;;;;;;;;;x
+title_medal_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_confederate_sunburst;Confederate Sunburst;;;;;;;;;;;;;x
+title_confederate_sunburst_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_imperial_sunburst;Imperial Sunburst;;;;;;;;;;;;;x
+title_imperial_sunburst_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_colonial_star;Colonial Star;;;;;;;;;;;;;x
+title_colonial_star_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_star_of_valor;Star of Valor;;;;;;;;;;;;;x
+title_star_of_valor_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_red_star;Red Star;;;;;;;;;;;;;x
+title_red_star_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_holy_sunburst;Holy Sunburst;;;;;;;;;;;;;x
+title_holy_sunburst_desc;This medal is the highest honor that it is within your power to grant.;;;;;;;;;;;;;x
+title_captain;Captain;;;;;;;;;;;;;x
+title_captain_desc;Within organized pirate kingdoms, captains of particular ships hold a certain amount of prestige and influence.;;;;;;;;;;;;;x
+title_captain_foa;Captain;;;;;;;;;;;;;x
+title_justice_of_king;Main Judge;Justice du roi;;;Justicia del Rey;;;;;;;;;x
+title_justice_of_king_desc;The main judge of the country;Le bourreau royal et le gardien des cachots. ;;;El verdugo real y el responsable de las mazmorras.;;;;;;;;;x
+pirate_kingdom_feud_emperor;Pirate King;;;;;;;;;;;;;x
+pirate_kingdom_feud_emperor_female;Pirate Queen;;;;;;;;;;;;;x
+pirate_kingdom_feud_empire_of;Pirate Kingdom of;;;;;;;;;;;;;x
+pirate_kingdom_feud_empires;Pirate Kingdoms;;;;;;;;;;;;;x
+pirate_kingdom_feud_empire;Pirate Kingdom;;;;;;;;;;;;;x
+pirate_kingdom_feud_king;Pirate Overlord;;;;;;;;;;;;;x
+pirate_kingdom_feud_king_female;Pirate Overlord;;;;;;;;;;;;;x
+pirate_kingdom_feud_king_title_ruler_consort;Pirate Consort;;;;;;;;;;;;;x
+pirate_kingdom_feud_king_title_ruler_consort_female;Pirate Consort;;;;;;;;;;;;;x
+pirate_kingdom_feud_kingdom_of;Pirate Overlordship of;;;;;;;;;;;;;x
+pirate_kingdom_feud_kingdoms;Pirate Overlordships;;;;;;;;;;;;;x
+pirate_kingdom_feud_kingdom;Pirate Overlordship;;;;;;;;;;;;;x
+pirate_kingdom_feud_king_deed;Control of;;;;;;;;;;;;;x
+pirate_kingdom_feud_duke;Pirate Highlord;;;;;;;;;;;;;x
+pirate_kingdom_feud_duke_female;Pirate Highlady;;;;;;;;;;;;;x
+pirate_kingdom_feud_duke_deed;Control of;;;;;;;;;;;;;x
+pirate_kingdom_feud_count;Pirate Lord;;;;;;;;;;;;;x
+pirate_kingdom_feud_count_female;Pirate Lady;;;;;;;;;;;;;x
+pirate_republic_duke_title_ruler_consort;Consort;;;;;;;;;;;;;x
+pirate_republic_duke_title_ruler_consort_female;Consort;;;;;;;;;;;;;x
+pirate_republic_duke_deed;Control of;;;;;;;;;;;;;x
+pirate_kingdom_feud_job_chancellor;First Mate;;;;;;;;;;;;;x
+pirate_kingdom_feud_job_marshal;Chief Tactical Officer;;;;;;;;;;;;;x
+pirate_kingdom_feud_job_treasurer;Chief Quartermaster;;;;;;;;;;;;;x
+pirate_kingdom_feud_job_spymaster;Chief Signals Officer;;;;;;;;;;;;;x
+pirate_kingdom_feud_job_spiritual;Chief Engineer;;;;;;;;;;;;;x
+pirate_republic_job_chancellor;Consigliere;;;;;;;;;;;;;x
+pirate_republic_job_marshal;Chief Enforcer;;;;;;;;;;;;;x
+pirate_republic_job_treasurer;Chief Quartermaster;;;;;;;;;;;;;x
+pirate_republic_job_spymaster;Spymaster;;;;;;;;;;;;;x
+pirate_republic_job_spiritual;Chief Engineer;;;;;;;;;;;;;x
+
+civil_barony_of;Planet;Planète;Planet;;Planeta;;;;;;;;;x
+civil_barony;Planet;Planète;Planet;;Planeta;;;;;;;;;x
+civil_baronies;Planets;Planètes;Planeten;;Planetas;;;;;;;;;x
+military_barony_of;Base;Planète;Planet;;Planeta;;;;;;;;;x
+military_barony;Base;Planète;Planet;;Planeta;;;;;;;;;x
+military_baronies;Bases;Planètes;Planeten;;Planetas;;;;;;;;;x
+rectorate_barony_of;Institute;Planète;Planet;;Planeta;;;;;;;;;x
+rectorate_barony;Institute;Planète;Planet;;Planeta;;;;;;;;;x
+rectorate_baronies;Institutes;Planètes;Planeten;;Planetas;;;;;;;;;x
+
+## Bhaaratiya Ruler Titles
+
+# Generic (Republic?) Bhaaratiya Ruler Titles
+
+emperor_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+emperor_female_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+emperor_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+emperor_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+empire_of_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+empire_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+empires_crisis_indian_group;Antariksh Deshs;Antariksh Deshs;Antariksh Deshs;;Antariksh Deshs;;;;;;;;;x
+
+king_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+king_female_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+king_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+king_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+kingdom_of_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+kingdom_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+kingdoms_crisis_indian_group;Antariksh Raashtras;Antariksh Raashtras;Antariksh Raashtras;;Antariksh Raashtras;;;;;;;;;x
+
+duke_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+duke_female_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+duke_foa_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+duke_foa_female_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+baron_crisis_indian_group;Nagarpati;Nagarpati;Nagarpati;;Nagarpati;;;;;;;;;x
+baron_female_crisis_indian_group;Nagareshwari;Nagareshwari;Nagareshwari;;Nagareshwari;;;;;;;;;x
+baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+barony_of_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+barony_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+baronies_crisis_indian_group;Mahaanagars;Mahaanagars;Mahaanagars;;Mahaanagars;;;;;;;;;x
+
+# Neo-Feudal Bhaaratiya Ruler Titles
+
+monarchy_emperor_crisis_indian_group;Raajaadhiraaj;Raajaadhiraaj;Raajaadhiraaj;;Raajaadhiraaj;;;;;;;;;x
+monarchy_emperor_female_crisis_indian_group;Raajaadhiraajani;Raajaadhiraajani;Raajaadhiraajani;;Raajaadhiraajani;;;;;;;;;x
+monarchy_emperor_foa_crisis_indian_group;O King of Kings;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+monarchy_emperor_foa_female_crisis_indian_group;O Queen of Queens;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+monarchy_empire_of_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+monarchy_empire_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+monarchy_empires_crisis_indian_group;Antariksh Saamraajyas;Antariksh Saamraajyas;Antariksh Saamraajyas;;Antariksh Saamraajyas;;;;;;;;;x
+
+monarchy_king_crisis_indian_group;Maharaaj;Maharaaj;Maharaaj;;Maharaaj;;;;;;;;;x
+monarchy_king_female_crisis_indian_group;Maharaani;Maharaani;Maharaani;;Maharaani;;;;;;;;;x
+monarchy_king_foa_crisis_indian_group;O Great King;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+monarchy_king_foa_female_crisis_indian_group;O Great Queen;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+monarchy_kingdom_of_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+monarchy_kingdom_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+monarchy_kingdoms_crisis_indian_group;Antariksh Raajyas;Antariksh Raajyas;Antariksh Raajyas;;Antariksh Raajyas;;;;;;;;;x
+
+monarchy_duke_crisis_indian_group;Raajaa;Raajaa;Raajaa;;Raajaa;;;;;;;;;x
+monarchy_duke_female_crisis_indian_group;Raani;Raani;Raani;;Raani;;;;;;;;;x
+monarchy_duke_foa_crisis_indian_group;O King;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+monarchy_duke_foa_female_crisis_indian_group;O Queen;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+monarchy_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+monarchy_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+monarchy_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+monarchy_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+monarchy_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+monarchy_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+monarchy_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+monarchy_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+monarchy_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+monarchy_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+monarchy_baron_crisis_indian_group;Grahapati;Grahapati;Grahapati;;Grahapati;;;;;;;;;x
+monarchy_baron_female_crisis_indian_group;Graheshwari;Graheshwari;Graheshwari;;Graheshwari;;;;;;;;;x
+monarchy_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+monarchy_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+monarchy_barony_of_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+monarchy_barony_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+monarchy_baronies_crisis_indian_group;Grahas;Grahas;Grahas;;Grahas;;;;;;;;;x
+
+# Civil Bhaaratiya Ruler Titles
+
+civil_emperor_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+civil_emperor_female_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+civil_emperor_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+civil_emperor_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+civil_empire_of_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+civil_empire_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+civil_empires_crisis_indian_group;Antariksh Deshs;Antariksh Deshs;Antariksh Deshs;;Antariksh Deshs;;;;;;;;;x
+
+civil_king_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+civil_king_female_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+civil_king_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+civil_king_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+civil_kingdom_of_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+civil_kingdom_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+civil_kingdoms_crisis_indian_group;Antariksh Raashtras;Antariksh Raashtras;Antariksh Raashtras;;Antariksh Raashtras;;;;;;;;;x
+
+civil_duke_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+civil_duke_female_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+civil_duke_foa_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+civil_duke_foa_female_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+civil_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+civil_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+civil_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+civil_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+civil_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+civil_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+civil_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+civil_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+civil_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+civil_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+civil_baron_crisis_indian_group;Nagarpati;Nagarpati;Nagarpati;;Nagarpati;;;;;;;;;x
+civil_baron_female_crisis_indian_group;Nagareshwari;Nagareshwari;Nagareshwari;;Nagareshwari;;;;;;;;;x
+civil_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+civil_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+civil_barony_of_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+civil_barony_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+civil_baronies_crisis_indian_group;Mahaanagars;Mahaanagars;Mahaanagars;;Mahaanagars;;;;;;;;;x
+
+# Technocratic Bhaaratiya Ruler Titles
+
+technocratic_emperor_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+technocratic_emperor_female_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+technocratic_emperor_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+technocratic_emperor_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+technocratic_empire_of_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+technocratic_empire_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+technocratic_empires_crisis_indian_group;Antariksh Deshs;Antariksh Deshs;Antariksh Deshs;;Antariksh Deshs;;;;;;;;;x
+
+technocratic_king_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+technocratic_king_female_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+technocratic_king_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+technocratic_king_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+technocratic_kingdom_of_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+technocratic_kingdom_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+technocratic_kingdoms_crisis_indian_group;Antariksh Raashtras;Antariksh Raashtras;Antariksh Raashtras;;Antariksh Raashtras;;;;;;;;;x
+
+technocratic_duke_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+technocratic_duke_female_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+technocratic_duke_foa_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+technocratic_duke_foa_female_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+technocratic_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+technocratic_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+technocratic_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+technocratic_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+technocratic_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+technocratic_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+technocratic_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+technocratic_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+technocratic_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+technocratic_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+technocratic_baron_crisis_indian_group;Nagarpati;Nagarpati;Nagarpati;;Nagarpati;;;;;;;;;x
+technocratic_baron_female_crisis_indian_group;Nagareshwari;Nagareshwari;Nagareshwari;;Nagareshwari;;;;;;;;;x
+technocratic_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+technocratic_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+technocratic_barony_of_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+technocratic_barony_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+technocratic_baronies_crisis_indian_group;Mahaanagars;Mahaanagars;Mahaanagars;;Mahaanagars;;;;;;;;;x
+
+# Military Bhaaratiya Ruler Titles
+
+military_emperor_crisis_indian_group;Adhinaayak;Adhinaayak;Adhinaayak;;Adhinaayak;;;;;;;;;x
+military_emperor_female_crisis_indian_group;Adhinaayak;Adhinaayaki;Adhinaayaki;;Adhinaayaki;;;;;;;;;x
+military_emperor_foa_crisis_indian_group;Esteemed Adhinaayak;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+military_emperor_foa_female_crisis_indian_group;Esteemed Adhinaayak;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+military_empire_of_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+military_empire_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+military_empires_crisis_indian_group;Antariksh Deshs;Antariksh Deshs;Antariksh Deshs;;Antariksh Deshs;;;;;;;;;x
+
+military_king_crisis_indian_group;Mahaasenaapati;Mahaasenaapati;Mahaasenaapati;;Mahaasenaapati;;;;;;;;;x
+military_king_female_crisis_indian_group;Mahaasenaapati;Mahaasenaapati;Mahaasenaapati;;Mahaasenaapati;;;;;;;;;x
+military_king_foa_crisis_indian_group;Esteemed Senaapati;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+military_king_foa_female_crisis_indian_group;Esteemed Senaapati;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+military_kingdom_of_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+military_kingdom_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+military_kingdoms_crisis_indian_group;Antariksh Raashtras;Antariksh Raashtras;Antariksh Raashtras;;Antariksh Raashtras;;;;;;;;;x
+
+military_duke_crisis_indian_group;Senaapati;Senaapati;Senaapati;;Senaapati;;;;;;;;;x
+military_duke_female_crisis_indian_group;Senaapati;Senaapati;Senaapati;;Senaapati;;;;;;;;;x
+military_duke_foa_crisis_indian_group;Esteemed Senaapati;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+military_duke_foa_female_crisis_indian_group;Esteemed Senaapati;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+military_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+military_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+military_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+military_count_crisis_indian_group;Shaasak;Shaasak;Shaasak;;Shaasak;;;;;;;;;x
+military_count_female_crisis_indian_group;Shaasaki;Shaasaki;Shaasaki;;Shaasaki;;;;;;;;;x
+military_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+military_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+military_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+military_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+military_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+military_baron_crisis_indian_group;Grahapati;Grahapati;Grahapati;;Grahapati;;;;;;;;;x
+military_baron_female_crisis_indian_group;Graheshwari;Graheshwari;Graheshwari;;Graheshwari;;;;;;;;;x
+military_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+military_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+military_barony_of_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+military_barony_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+military_baronies_crisis_indian_group;Grahas;Grahas;Grahas;;Grahas;;;;;;;;;x
+
+# Pirate Kingdom Bhaaratiya Ruler Titles
+
+pirate_kingdom_emperor_crisis_indian_group;Raajaadhiraaj;Raajaadhiraaj;Raajaadhiraaj;;Raajaadhiraaj;;;;;;;;;x
+pirate_kingdom_emperor_female_crisis_indian_group;Raajaadhiraajani;Raajaadhiraajani;Raajaadhiraajani;;Raajaadhiraajani;;;;;;;;;x
+pirate_kingdom_emperor_foa_crisis_indian_group;O King of Kings;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+pirate_kingdom_emperor_foa_female_crisis_indian_group;O Queen of Queens;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+pirate_kingdom_empire_of_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+pirate_kingdom_empire_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+pirate_kingdom_empires_crisis_indian_group;Antariksh Saamraajyas;Antariksh Saamraajyas;Antariksh Saamraajyas;;Antariksh Saamraajyas;;;;;;;;;x
+
+pirate_kingdom_king_crisis_indian_group;Maharaaj;Maharaaj;Maharaaj;;Maharaaj;;;;;;;;;x
+pirate_kingdom_king_female_crisis_indian_group;Maharaani;Maharaani;Maharaani;;Maharaani;;;;;;;;;x
+pirate_kingdom_king_foa_crisis_indian_group;O Great King;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+pirate_kingdom_king_foa_female_crisis_indian_group;O Great Queen;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+pirate_kingdom_kingdom_of_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+pirate_kingdom_kingdom_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+pirate_kingdom_kingdoms_crisis_indian_group;Antariksh Raajyas;Antariksh Raajyas;Antariksh Raajyas;;Antariksh Raajyas;;;;;;;;;x
+
+pirate_kingdom_duke_crisis_indian_group;Raajaa;Raajaa;Raajaa;;Raajaa;;;;;;;;;x
+pirate_kingdom_duke_female_crisis_indian_group;Raani;Raani;Raani;;Raani;;;;;;;;;x
+pirate_kingdom_duke_foa_crisis_indian_group;O King;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+pirate_kingdom_duke_foa_female_crisis_indian_group;O Queen;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+pirate_kingdom_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+pirate_kingdom_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+pirate_kingdom_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+pirate_kingdom_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+pirate_kingdom_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+pirate_kingdom_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+pirate_kingdom_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+pirate_kingdom_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+pirate_kingdom_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+pirate_kingdom_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+pirate_kingdom_baron_crisis_indian_group;Grahapati;Grahapati;Grahapati;;Grahapati;;;;;;;;;x
+pirate_kingdom_baron_female_crisis_indian_group;Graheshwari;Graheshwari;Graheshwari;;Graheshwari;;;;;;;;;x
+pirate_kingdom_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+pirate_kingdom_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+pirate_kingdom_barony_of_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+pirate_kingdom_barony_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+pirate_kingdom_baronies_crisis_indian_group;Grahas;Grahas;Grahas;;Grahas;;;;;;;;;x
+
+# Pirate Republic Bhaaratiya Ruler Titles
+
+pirate_republic_emperor_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+pirate_republic_emperor_female_crisis_indian_group;Pradhaan Mantri;Pradhaan Mantri;Pradhaan Mantri;;Pradhaan Mantri;;;;;;;;;x
+pirate_republic_emperor_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+pirate_republic_emperor_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+pirate_republic_empire_of_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+pirate_republic_empire_crisis_indian_group;Antariksh Desh;Antariksh Desh;Antariksh Desh;;Antariksh Desh;;;;;;;;;x
+pirate_republic_empires_crisis_indian_group;Antariksh Deshs;Antariksh Deshs;Antariksh Deshs;;Antariksh Deshs;;;;;;;;;x
+
+pirate_republic_king_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+pirate_republic_king_female_crisis_indian_group;Mukhyamantri;Mukhyamantri;Mukhyamantri;;Mukhyamantri;;;;;;;;;x
+pirate_republic_king_foa_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+pirate_republic_king_foa_female_crisis_indian_group;Esteemed Mantri;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+pirate_republic_kingdom_of_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+pirate_republic_kingdom_crisis_indian_group;Antariksh Raashtra;Antariksh Raashtra;Antariksh Raashtra;;Antariksh Raashtra;;;;;;;;;x
+pirate_republic_kingdoms_crisis_indian_group;Antariksh Raashtras;Antariksh Raashtras;Antariksh Raashtras;;Antariksh Raashtras;;;;;;;;;x
+
+pirate_republic_duke_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+pirate_republic_duke_female_crisis_indian_group;Mantri;Mantri;Mantri;;Mantri;;;;;;;;;x
+pirate_republic_duke_foa_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+pirate_republic_duke_foa_female_crisis_indian_group;Esteemed Mantri;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+pirate_republic_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+pirate_republic_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+pirate_republic_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+pirate_republic_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+pirate_republic_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+pirate_republic_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+pirate_republic_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+pirate_republic_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+pirate_republic_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+pirate_republic_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+pirate_republic_baron_crisis_indian_group;Nagarpati;Nagarpati;Nagarpati;;Nagarpati;;;;;;;;;x
+pirate_republic_baron_female_crisis_indian_group;Nagareshwari;Nagareshwari;Nagareshwari;;Nagareshwari;;;;;;;;;x
+pirate_republic_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+pirate_republic_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+pirate_republic_barony_of_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+pirate_republic_barony_crisis_indian_group;Mahaanagar;Mahaanagar;Mahaanagar;;Mahaanagar;;;;;;;;;x
+pirate_republic_baronies_crisis_indian_group;Mahaanagars;Mahaanagars;Mahaanagars;;Mahaanagars;;;;;;;;;x
+
+# Tribal Bhaaratiya Ruler Titles
+
+tribal_emperor_crisis_indian_group;Raajaadhiraaj;Raajaadhiraaj;Raajaadhiraaj;;Raajaadhiraaj;;;;;;;;;x
+tribal_emperor_female_crisis_indian_group;Raajaadhiraajani;Raajaadhiraajani;Raajaadhiraajani;;Raajaadhiraajani;;;;;;;;;x
+tribal_emperor_foa_crisis_indian_group;O King of Kings;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+tribal_emperor_foa_female_crisis_indian_group;O Queen of Queens;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+tribal_empire_of_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+tribal_empire_crisis_indian_group;Antariksh Saamraajya;Antariksh Saamraajya;Antariksh Saamraajya;;Antariksh Saamraajya;;;;;;;;;x
+tribal_empires_crisis_indian_group;Antariksh Saamraajyas;Antariksh Saamraajyas;Antariksh Saamraajyas;;Antariksh Saamraajyas;;;;;;;;;x
+
+tribal_king_crisis_indian_group;Maharaaj;Maharaaj;Maharaaj;;Maharaaj;;;;;;;;;x
+tribal_king_female_crisis_indian_group;Maharaani;Maharaani;Maharaani;;Maharaani;;;;;;;;;x
+tribal_king_foa_crisis_indian_group;O Great King;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+tribal_king_foa_female_crisis_indian_group;O Great Queen;Votre Majesté;Eure Majestät;;Su Majestad;;;;;;;;;x
+tribal_kingdom_of_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+tribal_kingdom_crisis_indian_group;Antariksh Raajya;Antariksh Raajya;Antariksh Raajya;;Antariksh Raajya;;;;;;;;;x
+tribal_kingdoms_crisis_indian_group;Antariksh Raajyas;Antariksh Raajyas;Antariksh Raajyas;;Antariksh Raajyas;;;;;;;;;x
+
+tribal_duke_crisis_indian_group;Raajaa;Raajaa;Raajaa;;Raajaa;;;;;;;;;x
+tribal_duke_female_crisis_indian_group;Raani;Raani;Raani;;Raani;;;;;;;;;x
+tribal_duke_foa_crisis_indian_group;O King;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+tribal_duke_foa_female_crisis_indian_group;O Queen;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+tribal_duchy_of_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+tribal_duchy_crisis_indian_group;Mandal;Mandal;Mandal;;Mandal;;;;;;;;;x
+tribal_duchies_crisis_indian_group;Mandals;Mandals;Mandals;;Mandals;;;;;;;;;x
+
+tribal_count_crisis_indian_group;Nakshatrapati;Nakshatrapati;Nakshatrapati;;Nakshatrapati;;;;;;;;;x
+tribal_count_female_crisis_indian_group;Nakshatreshwari;Nakshatreshwari;Nakshatreshwari;;Nakshatreshwari;;;;;;;;;x
+tribal_count_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+tribal_count_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+tribal_county_of_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+tribal_county_crisis_indian_group;Nakshatra;Nakshatra;Nakshatra;;Nakshatra;;;;;;;;;x
+tribal_counties_crisis_indian_group;Nakshatras;Nakshatras;Nakshatras;;Nakshatras;;;;;;;;;x
+
+tribal_baron_crisis_indian_group;Grahapati;Grahapati;Grahapati;;Grahapati;;;;;;;;;x
+tribal_baron_female_crisis_indian_group;Graheshwari;Graheshwari;Graheshwari;;Graheshwari;;;;;;;;;x
+tribal_baron_foa_crisis_indian_group;O Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+tribal_baron_foa_female_crisis_indian_group;O Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+tribal_barony_of_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+tribal_barony_crisis_indian_group;Graha;Graha;Graha;;Graha;;;;;;;;;x
+tribal_baronies_crisis_indian_group;Grahas;Grahas;Grahas;;Grahas;;;;;;;;;x
