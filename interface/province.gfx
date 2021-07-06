@@ -405,7 +405,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_tribal_bodpagfx"
-		texturefile = "gfx\\interface\\placeholder_tribal.dds"
+		texturefile = "gfx\\interface\\placeholder_tribal.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
