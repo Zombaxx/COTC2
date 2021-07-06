@@ -9,13 +9,13 @@
 # nomadic_in_alt_start = yes - Will be Nomadic if the "Tribal & Nomadic" option is taken in the alt-start generation
 
 north_germanic = {
-	unit_graphical_cultures = {westerngfx }
 	graphical_cultures = { westerngfx }
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	
 	norse = {
 		graphical_cultures = { norsegfx }
-		unit_graphical_cultures = {westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000 
@@ -70,7 +70,7 @@ north_germanic = {
 
 	swedish = {
 		graphical_cultures = { norsegfx }
-		unit_graphical_cultures = {westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -119,7 +119,7 @@ north_germanic = {
 	}
 	norwegian = {
 		graphical_cultures = { norsegfx }
-		unit_graphical_cultures = {westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = { 
 			OR = {
 				year >= 1000
@@ -157,7 +157,7 @@ north_germanic = {
 	}
 	danish = {
 		graphical_cultures = { norsegfx }
-		unit_graphical_cultures = {westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -205,12 +205,11 @@ north_germanic = {
 }
 
 central_germanic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { germangfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { germangfx }
 
 	german = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { germangfx }
 		
 		color = { 0.5 0.5 0.5 }
@@ -257,8 +256,8 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	lombard = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { germangfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -309,8 +308,8 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	old_frankish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { germangfx frankishgfx westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -364,8 +363,8 @@ central_germanic = {
 		modifier = default_culture_modifier
 	}
 	suebi = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { germangfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000
@@ -418,16 +417,16 @@ central_germanic = {
 }
 
 west_germanic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { westerngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
 
 	english = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { englishgfx }
 		
 		color = { 0.8 0.2 0.2 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1100
@@ -460,13 +459,12 @@ west_germanic = {
 		mother_name_chance = 5
 	}
 	saxon = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { englishgfx saxongfx  }
-		unit_unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { saxongfx englishgfx }
+		unit_graphical_cultures = { saxongfx englishgfx }
 		
 		color = { 0.8 0.3 0.3 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1100
@@ -521,12 +519,11 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	old_saxon = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { englishgfx saxongfx  }
-		unit_unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { saxongfx englishgfx }
+		unit_graphical_cultures = { saxongfx englishgfx }
 		
 		color = { 0.5 0.1 0.1 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 800
@@ -580,8 +577,8 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	frisian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { englishgfx saxongfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 800
@@ -635,10 +632,10 @@ west_germanic = {
 		modifier = default_culture_modifier
 	}
 	dutch = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { germangfx }
 		
 		color = { 0.96 0.39 0.08 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 800
@@ -687,13 +684,13 @@ west_germanic = {
 }
 
 latin = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { westerngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
 
 	frankish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { frankishgfx westerngfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -740,8 +737,8 @@ latin = {
 	}
 	
 	norman = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { normangfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -787,7 +784,6 @@ latin = {
 		seafarer = yes
 	}
 	italian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { italiangfx southerngfx westerngfx }
 		
 		color = { 0.95 0.95 0.75 }
@@ -836,10 +832,10 @@ latin = {
 		mother_name_chance = 5
 	}
 	occitan = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { trueoccitangfx occitangfx }
 		
 		color = { 0.9 0.9 0.4 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -882,12 +878,12 @@ latin = {
 		mother_name_chance = 5
 	}
 	roman = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { romangfx southerngfx trueoccitangfx occitangfx }
 		
 		color = { 0.8 0.2 0.2 }
 		
 		used_for_random = no
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
 
 		male_names = {
@@ -927,7 +923,6 @@ latin = {
 		modifier = default_culture_modifier
 	}
 	dalmatian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { dalmatiangfx italiangfx southerngfx westerngfx }
 
 		color = { 0.8 0.8 0.2 }
@@ -955,8 +950,8 @@ latin = {
 		modifier = default_culture_modifier
 	}
 	outremer = { 
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { outremergfx andalusiangfx southerngfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			has_alternate_start_parameter = { key = culture value = full_random }
 		}
@@ -1002,7 +997,6 @@ latin = {
 		mother_name_chance = 10
 	}
 	sardinian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { italiangfx southerngfx }
 		
 		color = { 0.85 0.75 0.05 }
@@ -1059,12 +1053,11 @@ latin = {
 }
 
 iberian = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { occitangfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { occitangfx }
 
 	basque = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { italiangfx trueoccitangfx occitangfx }
 		
 		color = { 0.55 0.42 0.04 }
@@ -1101,11 +1094,11 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	castillan = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southerngfx }
 		
 		color = { 0.95 0.82 0.09 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -1141,11 +1134,11 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	catalan = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southerngfx }
 		
 		color = { 0.85 0.75 0.08 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -1178,10 +1171,10 @@ iberian = {
 		modifier = default_culture_modifier
 	}
 	portuguese = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southerngfx }
 		
 		color = { 0.75 0.67 0.07 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -1216,10 +1209,10 @@ iberian = {
 		mother_name_chance = 15
 	}
 	visigothic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southerngfx }
 		
 		color = { 0.55 0.55 0.15 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000
@@ -1263,12 +1256,11 @@ iberian = {
 }
 
 byzantine = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures =  { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures =  { easterngfx }
 
 	arberian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.7 0.2 0.9 }
@@ -1288,7 +1280,6 @@ byzantine = {
 	}
 
 	armenian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.5 0.2 0.5 }
@@ -1311,7 +1302,6 @@ byzantine = {
 		modifier = default_culture_modifier
 	}
 	greek = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.8 0.3 0.8 }
@@ -1352,7 +1342,6 @@ byzantine = {
 		modifier = default_culture_modifier
 	}
 	alan = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.7 0.5 0.7 }
@@ -1378,7 +1367,6 @@ byzantine = {
 		modifier = default_culture_modifier
 	}
 	georgian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.6 0.3 0.8 }
@@ -1406,7 +1394,6 @@ byzantine = {
 	}
 	
 	assyrian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -1438,7 +1425,6 @@ byzantine = {
 	}
 	
 	coptic = { #copto-egyptian
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.6 0.4 0.6 }
@@ -1470,7 +1456,6 @@ byzantine = {
 	}
 
 	crimean_gothic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { crimeangfx byzantinegfx }
 		
 		color = { 0.8 0.4 0.8}
@@ -1502,12 +1487,11 @@ byzantine = {
 }
 
 celtic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { westerngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
 
 	irish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.8 0.8 }
@@ -1568,11 +1552,11 @@ celtic = {
 		mother_name_chance = 10
 	}
 	scottish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.7 0.7 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 800
@@ -1620,11 +1604,11 @@ celtic = {
 		tribal_name = "TRIBAL_NAME_PROV_CLAN"
 	}
 	pictish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.2 0.6 0.6 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000
@@ -1665,7 +1649,6 @@ celtic = {
 		tribal_name = "TRIBAL_NAME_PROV_CLAN"
 	}
 	welsh = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.8 0.6 }
@@ -1729,7 +1712,6 @@ celtic = {
 		mother_name_chance = 0
 	}
 	breton = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.5 0.4 }
@@ -1810,12 +1792,11 @@ celtic = {
 }
 
 finno_ugric = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	finnish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.1 0.6 0.6 }
@@ -1837,7 +1818,6 @@ finno_ugric = {
 		modifier = default_culture_modifier
 	}
 	lappish	 = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.4 0.75 0.85 }
@@ -1856,7 +1836,6 @@ finno_ugric = {
 		modifier = default_culture_modifier
 	}
 	ugricbaltic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.3 0.7 0.7 }
@@ -1884,7 +1863,6 @@ finno_ugric = {
 		modifier = default_culture_modifier
 	}
 	komi = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.5 0.75 0.25 }
@@ -1909,7 +1887,6 @@ finno_ugric = {
 	}
 	
 	khanty = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.4 0.65 0.20 }
@@ -1934,7 +1911,6 @@ finno_ugric = {
 	}
 	
 	samoyed = { # AKA Nenets
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.3 0.75 0.75 }
@@ -1951,7 +1927,6 @@ finno_ugric = {
 		modifier = default_culture_modifier
 	}
 	mordvin = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.3 0.7 0.7 }
@@ -1975,7 +1950,6 @@ finno_ugric = {
 		modifier = default_culture_modifier
 	}
 	meshchera = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.3 0.5 0.5 }
@@ -2001,12 +1975,11 @@ finno_ugric = {
 }
 
 baltic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	lettigallish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.5 0.5 0.1 }
@@ -2027,7 +2000,6 @@ baltic = {
 		modifier = default_culture_modifier
 	}
 	lithuanian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.56 0.55 0.2 }
@@ -2048,7 +2020,6 @@ baltic = {
 		modifier = default_culture_modifier
 	}
 	prussian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { ugricgfx }
 		
 		color = { 0.56 0.55 0.4 }
@@ -2068,12 +2039,11 @@ baltic = {
 }
 
 altaic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { turkishgfx mongolgfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { turkishgfx mongolgfx muslimgfx }
 
 	turkish = { # Oghuz Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2104,7 +2074,6 @@ altaic = {
 		nomadic_in_alt_start = yes
 	}
 	pecheneg = { # Oghuz Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2128,7 +2097,6 @@ altaic = {
 		nomadic_in_alt_start = yes
 	}
 	cuman = { # Kipchak Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { cumangfx turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2153,7 +2121,6 @@ altaic = {
 	}
 	
 	khazar = { # Oghur Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2179,7 +2146,6 @@ altaic = {
 	}
 	
 	bolghar = { # Oghur Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2209,11 +2175,11 @@ altaic = {
 	}
 	
 	avar = { # Oghur Turkish
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { turkishgfx easterngfx }
 		secondary_event_pictures = bedouin_arabic
 
 		color = { 0.7 0.7 0.3 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000
@@ -2245,7 +2211,6 @@ altaic = {
 	}
 	
 	karluk = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { cumangfx turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2281,7 +2246,6 @@ altaic = {
 	}
 	
 	kirghiz = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { cumangfx turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2321,7 +2285,6 @@ altaic = {
 		nomadic_in_alt_start = yes
 	}
 	uyghur = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { cumangfx turkishgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2356,10 +2319,10 @@ altaic = {
 	}
 
 	mongol = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
 		horde = yes
 		
@@ -2387,7 +2350,6 @@ altaic = {
 	}
 	
 	khitan = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -2419,10 +2381,10 @@ altaic = {
 	}
 
 	jurchen = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
 		dynasty_name_first = yes
 
@@ -2452,12 +2414,11 @@ altaic = {
 }
 
 arabic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
 	
 	bedouin_arabic = { 
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { arabicgfx muslimgfx }
 		
 		color = { 0.1 0.75 0.1 }
@@ -2485,7 +2446,6 @@ arabic = {
 		modifier = default_culture_modifier
 	}
 	maghreb_arabic = { # Berber
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
 		
 		color = { 0.2 0.9 0.2 }
@@ -2543,7 +2503,6 @@ arabic = {
 		mother_name_chance = 30
 	}
 	levantine_arabic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { levantinegfx arabicgfx muslimgfx }
 		
 		color = { 0.3 0.95 0.3 }
@@ -2571,7 +2530,6 @@ arabic = {
 		modifier = default_culture_modifier
 	}
 	egyptian_arabic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
 		
 		color = { 0.1 0.6 0.1 }
@@ -2604,11 +2562,11 @@ arabic = {
 		modifier = default_culture_modifier
 	}
 	andalusian_arabic = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { berbergfx andalusiangfx } #westerngfx
 		
 		color = { 0.4 0.6 0.1 }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 1000
@@ -2649,15 +2607,15 @@ arabic = {
 }
 
 east_slavic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	russian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.2 0.4 0.1 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year >= 800
@@ -2698,10 +2656,10 @@ east_slavic = {
 		modifier = default_culture_modifier
 	}
 	ilmenian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.45 0.6 0.2 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 800
@@ -2739,10 +2697,10 @@ east_slavic = {
 		modifier = default_culture_modifier
 	}
 	severian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.5 0.8 0.3 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 800
@@ -2780,10 +2738,10 @@ east_slavic = {
 		modifier = default_culture_modifier
 	}
 	volhynian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { easternslavicgfx }
 		
 		color = { 0.65 0.8 0.3 }
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 800
@@ -2823,12 +2781,11 @@ east_slavic = {
 }
 
 west_slavic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	pommeranian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westernslavicgfx }
 		
 		color = { 0.4 0.6 0.4 }
@@ -2854,7 +2811,6 @@ west_slavic = {
 		modifier = default_culture_modifier
 	}
 	bohemian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westernslavicgfx }
 		
 		color = { 0.4 0.6 0.5 }
@@ -2878,7 +2834,6 @@ west_slavic = {
 		modifier = default_culture_modifier
 	}
 	polish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westernslavicgfx }
 		
 		color = { 0.4 0.6 0.55 }
@@ -2917,7 +2872,6 @@ west_slavic = {
 		mother_name_chance = 5
 	}
 	slovieni = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westernslavicgfx }
 		
 		color = { 0.4 0.6 0.35 }
@@ -2956,12 +2910,11 @@ west_slavic = {
 }
 
 south_slavic = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	croatian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { croatsouthslavicgfx }
 		
 		color = { 0.4 0.2 0.2 }
@@ -2993,7 +2946,6 @@ south_slavic = {
 		
 	}
 	serbian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { serbsouthslavicgfx }
 		
 		color = { 0.5 0.3 0.3 }
@@ -3018,7 +2970,6 @@ south_slavic = {
 		modifier = default_culture_modifier
 	}
 	romanian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { serbsouthslavicgfx }
 
 		color = { 0.6 0.4 0.4 }
@@ -3057,7 +3008,6 @@ south_slavic = {
 		modifier = default_culture_modifier
 	}
 	bulgarian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { serbsouthslavicgfx }
 		
 		color = { 0.7 0.5 0.5 }
@@ -3082,7 +3032,6 @@ south_slavic = {
 		modifier = default_culture_modifier
 	}
 	bosnian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { croatsouthslavicgfx }
 		
 		color = { 0.3 0.1 0.1 }
@@ -3114,7 +3063,6 @@ south_slavic = {
 		
 	}
 	carantanian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { serbsouthslavicgfx }
 
 		color = { 0.5 0.3 0.5 }
@@ -3139,12 +3087,11 @@ south_slavic = {
 }
 
 magyar = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	hungarian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { magyargfx westerngfx }
 		
 		color = { 0.5 0.6 0.3 }
@@ -3178,12 +3125,11 @@ magyar = {
 }
 
 iranian = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
 
 	persian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3216,7 +3162,6 @@ iranian = {
 	}
 
 	sogdian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3260,7 +3205,6 @@ iranian = {
 	}
 	
 	tocharian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3289,7 +3233,6 @@ iranian = {
 	}
 	
 	kurdish = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { persiangfx } #arabicgfx
 		secondary_event_pictures = bedouin_arabic
 
@@ -3333,8 +3276,7 @@ iranian = {
 	}
 	
 	afghan = { # a.k.a. Pashtun
-        unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { persiangfx } #arabicgfx
+        graphical_cultures = { persiangfx } #arabicgfx
         secondary_event_pictures = bedouin_arabic
 
         color = { 0.6 0.6 0.1 }
@@ -3371,8 +3313,7 @@ iranian = {
     }
  
     baloch = {
-        unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { persiangfx } #arabicgfx
+        graphical_cultures = { persiangfx } #arabicgfx
         secondary_event_pictures = bedouin_arabic
 
         color = { 0.4 0.4 0.05 }
@@ -3405,8 +3346,7 @@ iranian = {
     }
 	
 	saka = {
-        unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { persiangfx } #arabicgfx
+        graphical_cultures = { persiangfx } #arabicgfx
 		secondary_event_pictures = bedouin_arabic
 		
         color = { 0.4 0.2 0.75  }
@@ -3434,12 +3374,11 @@ iranian = {
 }
 
 east_african = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
 
 	ethiopian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3462,7 +3401,6 @@ east_african = {
 	}
 	
 	somali = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3489,7 +3427,6 @@ east_african = {
 	}
 	
 	nubian = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3518,7 +3455,6 @@ east_african = {
 	}
 	
 	daju = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3539,12 +3475,11 @@ east_african = {
 }
 
 central_african = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
 	
 	kanuri = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3559,7 +3494,6 @@ central_african = {
 	}
 	
 	hausa = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3574,7 +3508,6 @@ central_african = {
 	}
 	
 	zaghawa = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3590,12 +3523,11 @@ central_african = {
 }
 
 west_african = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
 	
 	manden = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3621,7 +3553,6 @@ west_african = {
 		modifier = default_culture_modifier
 	}
 	soninke = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3654,7 +3585,6 @@ west_african = {
 	songhay = {
 		color = { 0.5 0.35 0.10 }
 		
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { westafricangfx africangfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3683,13 +3613,13 @@ west_african = {
 }
 
 mesoamerican = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { mesoamericangfx muslimgfx }
-	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } has_dlc = "Sunset Invasion" }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { mesoamericangfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } has_dlc = "Sunset Invasion" }
 
 	nahuatl = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { mesoamericangfx }
 		color = { 1.0 0.5 0.0 }
 		
@@ -3730,13 +3660,13 @@ mesoamerican = {
 }
 
 israelite = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { easterngfx }
-	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
 
 	ashkenazi = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.6 0.3 0.6 }
@@ -3761,7 +3691,6 @@ israelite = {
 		modifier = default_culture_modifier
 	}
 	sephardi = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { byzantinegfx }
 		
 		color = { 0.7 0.2 0.7 }
@@ -3788,12 +3717,11 @@ israelite = {
 }
 
 indo_aryan_group = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { indiangfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { indiangfx muslimgfx }
 	
 	bengali = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3843,7 +3771,6 @@ indo_aryan_group = {
 	}
 	
 	oriya = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3882,7 +3809,6 @@ indo_aryan_group = {
 	}
 	
 	assamese = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3910,7 +3836,6 @@ indo_aryan_group = {
 	}
 
 	hindustani = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -3963,7 +3888,6 @@ indo_aryan_group = {
 	}
 	
 	gujurati = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4016,7 +3940,6 @@ indo_aryan_group = {
 	}
 	
 	panjabi = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4044,7 +3967,6 @@ indo_aryan_group = {
 	}
 	
 	rajput = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4116,7 +4038,6 @@ indo_aryan_group = {
 	}
 
 	sindhi = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4145,7 +4066,6 @@ indo_aryan_group = {
 	}
 
 	marathi = { # Indo-Aryan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4192,7 +4112,6 @@ indo_aryan_group = {
 	}
 
 	sinhala = { # Indo-Aryans who arrived in Sri Lanka ca 600BC
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4235,7 +4154,6 @@ indo_aryan_group = {
 	}
 	
 	nepali = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { bodpagfx indiangfx southindiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4268,12 +4186,11 @@ indo_aryan_group = {
 }
 
 dravidian_group = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { southindiangfx indiangfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { southindiangfx indiangfx muslimgfx }
 
 	tamil = { # Dravidian - Southern India except Sri Lanka
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southindiangfx indiangfx muslimgfx }
 		secondary_event_pictures = bengali
 		
@@ -4329,7 +4246,6 @@ dravidian_group = {
 	}
 	
 	telugu = { # Dravidian
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southindiangfx indiangfx muslimgfx }
 		secondary_event_pictures = bengali
 		
@@ -4366,7 +4282,6 @@ dravidian_group = {
 	}
 	
 	kannada = { # Dravidian
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { southindiangfx indiangfx muslimgfx }
 		secondary_event_pictures = bengali
 		
@@ -4412,12 +4327,11 @@ dravidian_group = {
 }
 
 tibetan_group = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
 	
 	bodpa = { # Tibetan
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4471,7 +4385,6 @@ tibetan_group = {
 	}
 	
 	tangut = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
@@ -4531,12 +4444,12 @@ tibetan_group = {
 	}
 	
 	zhangzhung = { # Zhangzhung
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 1.0 0.4 0.0  }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000 
@@ -4585,12 +4498,12 @@ tibetan_group = {
 		modifier = default_culture_modifier
 	}
 	sumpa = { # Sumpa
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { bodpagfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.8 0.2 0.1  }
 		
+		unit_graphical_cultures = { westerngfx }
 		alternate_start = {
 			OR = {
 				year < 1000 
@@ -4634,12 +4547,11 @@ tibetan_group = {
 }
 
 chinese_group = {
-	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-	unit_graphical_cultures = {westerngfx }
-		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+	unit_graphical_cultures = { westerngfx }
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 	
 	han = {
-		unit_graphical_cultures = {westerngfx }
 		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 		secondary_event_pictures = bedouin_arabic
 		
