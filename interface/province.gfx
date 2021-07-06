@@ -488,13 +488,13 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_settlement_tribal_byzantinegfx"
-		texturefile = "gfx\\interface\\placeholder.tga"
+		texturefile = "gfx\\interface\\placeholder_tribal.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_tribal_romangfx"
-		texturefile = "gfx\\interface\\placeholder.tga"
+		texturefile = "gfx\\interface\\placeholder_tribal.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
@@ -503,7 +503,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_nomad"
-		texturefile = "gfx\\interface\\placeholder.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
