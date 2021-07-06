@@ -2066,7 +2066,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_nomad_looted"
-		texturefile = "gfx\\interface\\placeholder_nomad_looted.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_looted.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
