@@ -1,0 +1,14 @@
+# 1838 - Province1838
+
+# County Title
+title = c_province1838
+
+# Settlements
+max_settlements = 2
+b_barony1838` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

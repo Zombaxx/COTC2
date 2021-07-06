@@ -1,0 +1,14 @@
+# 1100 - Province1100
+
+# County Title
+title = c_province1100
+
+# Settlements
+max_settlements = 3
+b_barony1100` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

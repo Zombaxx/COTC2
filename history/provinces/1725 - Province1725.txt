@@ -1,0 +1,14 @@
+# 1725 - Province1725
+
+# County Title
+title = c_province1725
+
+# Settlements
+max_settlements = 2
+b_barony1725` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

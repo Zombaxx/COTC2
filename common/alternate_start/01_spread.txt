@@ -1,0 +1,497 @@
+adjacencies = {
+	61 = 496 #Province0061 - Province0496
+	39 = 31 #Province0039 - Province0031
+	48 = 64 #Province0048 - Province0064
+	60 = 71 #Province0060 - Province0071
+	222 = 246 #Province0222 - Province0246
+	84 = 100 #Province0084 - Province0100
+	98 = 103 #Province0098 - Province0103
+	116 = 148 #Province0116 - Province0148
+	105 = 118 #Province0105 - Province0118
+	140 = 155 #Province0140 - Province0155
+	124 = 121 #Province0124 - Province0121
+	141 = 164 #Province0141 - Province0164
+	123 = 102 #Province0123 - Province0102
+	136 = 160 #Province0136 - Province0160
+	186 = 214 #Province0186 - Province0214
+	161 = 173 #Province0161 - Province0173
+	223 = 252 #Province0223 - Province0252
+	236 = 304 #Province0236 - Province0304
+	238 = 274 #Province0238 - Province0274
+	266 = 258 #Province0266 - Province0258
+	332 = 368 #Province0332 - Province0368
+	319 = 357 #Province0319 - Province0357
+	229 = 202 #Province0229 - Province0202
+	427 = 443 #Province0427 - Province0443
+	335 = 297 #Province0335 - Province0297
+	260 = 233 #Province0260 - Province0233
+	611 = 635 #Province0611 - Province0635
+	265 = 236 #Province0265 - Province0236
+	380 = 350 #Province0380 - Province0350
+	393 = 364 #Province0393 - Province0364
+	469 = 551 #Province0469 - Province0551
+	413 = 383 #Province0413 - Province0383
+	467 = 473 #Province0467 - Province0473
+	449 = 374 #Province0449 - Province0374
+	444 = 441 #Province0444 - Province0441
+	515 = 497 #Province0515 - Province0497
+	550 = 599 #Province0550 - Province0599
+	487 = 458 #Province0487 - Province0458
+	498 = 511 #Province0498 - Province0511
+	544 = 601 #Province0544 - Province0601
+	528 = 535 #Province0528 - Province0535
+	998 = 1008 #Province0998 - Province1008
+	668 = 696 #Province0668 - Province0696
+	587 = 537 #Province0587 - Province0537
+	622 = 641 #Province0622 - Province0641
+	597 = 553 #Province0597 - Province0553
+	647 = 724 #Province0647 - Province0724
+	660 = 650 #Province0660 - Province0650
+	684 = 700 #Province0684 - Province0700
+	677 = 619 #Province0677 - Province0619
+	758 = 809 #Province0758 - Province0809
+	807 = 860 #Province0807 - Province0860
+	722 = 745 #Province0722 - Province0745
+	793 = 786 #Province0793 - Province0786
+	743 = 733 #Province0743 - Province0733
+	750 = 681 #Province0750 - Province0681
+	757 = 720 #Province0757 - Province0720
+	799 = 844 #Province0799 - Province0844
+	788 = 727 #Province0788 - Province0727
+	819 = 671 #Province0819 - Province0671
+	842 = 870 #Province0842 - Province0870
+	826 = 889 #Province0826 - Province0889
+	813 = 744 #Province0813 - Province0744
+	857 = 905 #Province0857 - Province0905
+	933 = 894 #Province0933 - Province0894
+	1050 = 1124 #Province1050 - Province1124
+	890 = 866 #Province0890 - Province0866
+	1055 = 1105 #Province1055 - Province1105
+	1198 = 1258 #Province1198 - Province1258
+	1058 = 1099 #Province1058 - Province1099
+	922 = 877 #Province0922 - Province0877
+	989 = 990 #Province0989 - Province0990
+	984 = 1061 #Province0984 - Province1061
+	991 = 945 #Province0991 - Province0945
+	1197 = 1254 #Province1197 - Province1254
+	1013 = 975 #Province1013 - Province0975
+	1049 = 1080 #Province1049 - Province1080
+	1065 = 1033 #Province1065 - Province1033
+	1084 = 1018 #Province1084 - Province1018
+	1075 = 995 #Province1075 - Province0995
+	1219 = 1236 #Province1219 - Province1236
+	1120 = 1060 #Province1120 - Province1060
+	1280 = 1278 #Province1280 - Province1278
+	1171 = 1148 #Province1171 - Province1148
+	1214 = 1216 #Province1214 - Province1216
+	1210 = 1133 #Province1210 - Province1133
+	1335 = 1344 #Province1335 - Province1344
+	1251 = 1215 #Province1251 - Province1215
+	1465 = 1472 #Province1465 - Province1472
+	1304 = 1339 #Province1304 - Province1339
+	1297 = 1287 #Province1297 - Province1287
+	1294 = 1248 #Province1294 - Province1248
+	1337 = 1266 #Province1337 - Province1266
+	1383 = 1448 #Province1383 - Province1448
+	1327 = 1280 #Province1327 - Province1280
+	1365 = 1347 #Province1365 - Province1347
+	1386 = 1340 #Province1386 - Province1340
+	1390 = 1341 #Province1390 - Province1341
+	1444 = 1478 #Province1444 - Province1478
+	1467 = 1480 #Province1467 - Province1480
+	1516 = 1561 #Province1516 - Province1561
+	1489 = 1439 #Province1489 - Province1439
+	1531 = 1587 #Province1531 - Province1587
+	1486 = 1468 #Province1486 - Province1468
+	1502 = 1458 #Province1502 - Province1458
+	1518 = 1585 #Province1518 - Province1585
+	1564 = 1588 #Province1564 - Province1588
+	1533 = 1526 #Province1533 - Province1526
+	1546 = 1535 #Province1546 - Province1535
+	1608 = 1641 #Province1608 - Province1641
+	1596 = 1688 #Province1596 - Province1688
+	1594 = 1666 #Province1594 - Province1666
+	1577 = 1494 #Province1577 - Province1494
+	1695 = 1257 #Province1695 - Province1257
+	1647 = 1689 #Province1647 - Province1689
+	1648 = 1692 #Province1648 - Province1692
+	1650 = 1590 #Province1650 - Province1590
+	1639 = 1612 #Province1639 - Province1612
+	1657 = 1635 #Province1657 - Province1635
+	1814 = 1837 #Province1814 - Province1837
+	1688 = 1437 #Province1688 - Province1437
+	1700 = 1656 #Province1700 - Province1656
+	1729 = 1681 #Province1729 - Province1681
+	1798 = 1749 #Province1798 - Province1749
+	1812 = 1770 #Province1812 - Province1770
+}
+
+
+culture_group_spread = {
+	factor = 100
+	modifier = {
+		factor = 10
+		num_culture_provinces < 20
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 30
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 40
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 50
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 60
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 70
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 80
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 90
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 100
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 110
+	}
+	#TODO: Add culture_group specific modifiers here
+}
+
+culture_spread = {
+	factor = 100
+	modifier = {
+		factor = 10
+		num_culture_provinces < 3
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 5
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 10
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 15
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 20
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 25
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 30
+	}
+	#TODO: Add culture specific modifiers here
+}
+
+
+religion_group_spawn = {
+	factor = 100
+	modifier = {
+		factor = 0.001
+		any_religion_distance < 120
+	}
+	modifier = {
+		factor = 0.1
+		any_religion_distance < 210
+	}
+	modifier = { # Avoid starting on islands
+		factor = 0.1
+		is_island = yes
+	}
+}
+
+religion_group_spread = {
+	factor = 100
+	modifier = {
+		factor = 10
+		num_religion_provinces < 20
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 30
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 40
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 50
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 60
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 70
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 80
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 90
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 100
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 110
+	}
+	#TODO: Add religion_group specific modifiers here
+}
+
+religion_spread = {
+	factor = 100
+	modifier = {
+		factor = 10
+		num_religion_provinces < 3
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 5
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 10
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 15
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 20
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 25
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 30
+	}
+	#TODO: Add religion specific modifiers here
+}
+
+
+dejure_kingdom_spread = {
+	factor = 100
+	modifier = {
+		factor = 10
+		distance = { where = FROM value < 100 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 200 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 300 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 400 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 500 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 600 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 700 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 800 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 900 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 1000 }
+	}
+	modifier = { #Island kingdoms should stick to islands
+		factor = 0.01
+		OR = {
+			AND = {
+				is_island = yes
+				FROMFROM = { is_island = no }
+			AND = {
+			}
+				is_island = no
+				FROMFROM = { is_island = yes }
+			}
+		}
+	}
+}
+
+dejure_empire_spread = {
+	factor = 100
+	modifier = {
+		factor = 5
+		distance = { where = FROM value < 100 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 200 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 300 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 400 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 500 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 600 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 700 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 800 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 900 }
+	}
+	modifier = {
+		factor = 0.6
+		distance = { where = FROM value > 1000 }
+	}
+	modifier = { #Island empires should stick to islands
+		factor = 0.01
+		OR = {
+			AND = {
+				is_island = yes
+				FROMFROM = { is_island = no }
+			AND = {
+			}
+				is_island = no
+				FROMFROM = { is_island = yes }
+			}
+		}
+	}
+}
+
+
+holy_site_spread = {
+	factor = 100
+	# We want three holy sites within the religion's borders, and two outside
+	modifier = {
+		factor = 0
+		NOT = { religion = FROM }
+		FROM = { num_holy_sites_generated < 1 }
+	}
+	modifier = {
+		factor = 0.01
+		NOT = { religion = FROM }
+		NOT = { parent_religion = { religion = FROM } }
+		FROM = { num_holy_sites_generated < 3 }
+	}
+	modifier = {
+		factor = 0.001
+		NOT = { religion_group = FROM }
+		FROM = { num_holy_sites_generated < 3 }
+	}
+	modifier = {
+		factor = 0.001
+		religion = FROM
+		FROM = { num_holy_sites_generated >= 3 }
+	}
+	# Stay near our borders
+	modifier = {
+		factor = 2
+		religion_group = FROM
+	}
+	# Avoid clustering
+	modifier = {
+		factor = 0 # We simply never want to be adjacent to a holy site
+		any_neighbor_province = {
+			is_holy_site = FROM
+		}
+	}
+	modifier = {
+		factor = 0
+		holy_site_distance = { target = FROM value < 60 }
+	}
+	modifier = {
+		factor = 0.01
+		holy_site_distance = { target = FROM value < 120 }
+	}
+	modifier = {
+		factor = 0.1
+		holy_site_distance = { target = FROM value < 180 }
+	}
+	modifier = {
+		factor = 20
+		holy_site_distance = { target = FROM value > 300 }
+	}
+	modifier = {
+		factor = 0 # We use this as a proxy for religion distance, because religion distance is expensive to calculate
+		NOT = { religion = FROM }
+		NAND = {
+			parent_religion = { religion = FROM }
+			FROM = { num_holy_sites_generated >= 3 } # Heresies can put their 3rd holy site in their parent religion
+		}
+		FROM = { num_holy_sites_generated > 0 }
+		holy_site_distance = { target = FROM value > 240 }
+	}
+	# Sharing some holy sites with parent religion is neat
+	modifier = {
+		factor = 100
+		FROM = {
+			parent_religion = {
+				ROOT = {
+					is_holy_site = PREV
+				}
+			}
+		}
+	}
+}
+
+
+holding_spread = {
+	factor = 100
+}

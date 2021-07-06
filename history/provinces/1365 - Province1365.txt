@@ -1,0 +1,15 @@
+# 1365 - Province1365
+
+# County Title
+title = c_province1365
+
+# Settlements
+max_settlements = 5
+b_barony1365` = tribal
+b_barony1365a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

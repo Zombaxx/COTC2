@@ -1,0 +1,14 @@
+# 1741 - Province1741
+
+# County Title
+title = c_province1741
+
+# Settlements
+max_settlements = 4
+b_barony1741` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History
