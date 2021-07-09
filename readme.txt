@@ -1,4 +1,4 @@
-To install, place the COTC2 folder and COTC2.mod file into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select Western Pacific in the mod options.
+To install, place the COTC2 folder and COTC2.mod file into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select COTC2 in the mod options.
 Trying to launch the mod without using the Random World setting or the provided save file will crash the game.
 
 COTC2 currently only works with the provided save file, or with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button between the Year and the Merchant Republic list).
