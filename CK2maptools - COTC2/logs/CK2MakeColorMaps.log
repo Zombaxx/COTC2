@@ -1,0 +1,28 @@
+[2021-07-05.14-59-26-430]Loading ./input/config.csv
+[2021-07-05.14-59-26-430]ERROR parsing config.csv file : mod_folder does not exist
+[2021-07-05.14-59-26-430]Loading ./input/climate.bmp
+[2021-07-05.14-59-26-450]Preparing climate...
+[2021-07-05.14-59-26-690]Preparing climate...10%
+[2021-07-05.14-59-26-897]Preparing climate...20%
+[2021-07-05.14-59-27-143]Preparing climate...30%
+[2021-07-05.14-59-27-340]Preparing climate...40%
+[2021-07-05.14-59-27-536]Preparing climate...50%
+[2021-07-05.14-59-27-735]Preparing climate...60%
+[2021-07-05.14-59-27-929]Preparing climate...70%
+[2021-07-05.14-59-28-127]Preparing climate...80%
+[2021-07-05.14-59-28-321]Preparing climate...90%
+[2021-07-05.14-59-28-497]Preparing climate...100%
+[2021-07-05.14-59-28-497]Making color maps...
+[2021-07-05.14-59-28-935]Making color maps...10%
+[2021-07-05.14-59-29-218]Making color maps...20%
+[2021-07-05.14-59-29-476]Making color maps...30%
+[2021-07-05.14-59-29-737]Making color maps...40%
+[2021-07-05.14-59-29-994]Making color maps...50%
+[2021-07-05.14-59-30-245]Making color maps...60%
+[2021-07-05.14-59-30-503]Making color maps...70%
+[2021-07-05.14-59-30-760]Making color maps...80%
+[2021-07-05.14-59-31-013]Making color maps...90%
+[2021-07-05.14-59-31-272]Making color maps...100%
+[2021-07-05.14-59-31-464]Writing ./output/map/terrain/colormap.dds
+[2021-07-05.14-59-31-506]Writing ./output/map/terrain/colormap_water.dds
+[2021-07-05.14-59-31-548]Done in 5119ms

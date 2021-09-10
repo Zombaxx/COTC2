@@ -1,0 +1,19 @@
+[2021-07-05.16-58-54-103]Loading ./input/settlements.bmp
+[2021-07-05.16-58-54-344]Loading ./input/provinces.bmp
+[2021-07-05.16-58-54-371]Determining province territory...
+[2021-07-05.16-58-54-568]Determining adjacencies...
+[2021-07-05.16-58-54-595]Loading ./output/map/adjacencies.csv
+[2021-07-05.16-58-54-596]Loading ./output/map/terrain.bmp
+[2021-07-05.16-58-55-693]Loading ./input/cultures.bmp
+[2021-07-05.16-58-55-694]cultures map not found
+[2021-07-05.16-58-55-694]Loading ./input/dejure_duchies.bmp
+[2021-07-05.16-58-55-708]Loading ./input/dejure_kingdoms.bmp
+[2021-07-05.16-58-55-721]Loading ./input/dejure_empires.bmp
+[2021-07-05.16-58-55-736]Finalizing...
+[2021-07-05.16-58-56-905]Writing .\input\dejure_duchies.bmp
+[2021-07-05.16-58-56-954]Writing .\input\dejure_kingdoms.bmp
+[2021-07-05.16-58-57-004]Writing .\input\dejure_empires.bmp
+[2021-07-05.16-58-57-052]Writing ./input/dejure_template.bmp
+[2021-07-05.16-58-57-099]Making trade_route template...
+[2021-07-05.16-58-57-212]Writing ./input/trade_route_template.bmp
+[2021-07-05.16-58-57-260]Done in 3158ms

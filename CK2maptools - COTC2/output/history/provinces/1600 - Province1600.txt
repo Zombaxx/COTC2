@@ -1,0 +1,15 @@
+# 1600 - Province1600
+
+# County Title
+title = c_province1600
+
+# Settlements
+max_settlements = 5
+b_barony1600` = tribal
+b_barony1600a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

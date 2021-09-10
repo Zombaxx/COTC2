@@ -1,0 +1,6 @@
+[2021-07-05.13-59-42-459]Loading ./input/provinces.bmp
+[2021-07-05.13-59-42-481]Loading ./output/map/terrain.bmp
+[2021-07-05.13-59-43-497]Loading ./output/map/topology.bmp
+[2021-07-05.13-59-43-552]Reverse engineering provinces...
+[2021-07-05.13-59-43-860]Writing ./input/settlements.bmp
+[2021-07-05.13-59-43-912]Done in 1453ms

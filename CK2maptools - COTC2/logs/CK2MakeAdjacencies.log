@@ -1,0 +1,16 @@
+[2021-07-05.17-19-55-028]Loading ./input/config.csv
+[2021-07-05.17-19-55-029]ERROR parsing config.csv file : mod_folder does not exist
+[2021-07-05.17-19-55-029]Loading ./output/map/terrain.bmp
+[2021-07-05.17-19-56-064]Loading ./input/settlements.bmp
+[2021-07-05.17-19-56-308]Loading ./input/provinces.bmp
+[2021-07-05.17-19-56-336]Determining province territory...
+[2021-07-05.17-19-56-526]Determining adjacencies...
+[2021-07-05.17-19-56-554]Calculating island regions
+[2021-07-05.17-19-56-557]Finding coastlines and riverbanks...
+[2021-07-05.17-19-56-629]Writing .\output\map\adjacencies.csv
+[2021-07-05.17-19-56-630]Finding river crossings...
+[2021-07-05.17-19-56-633]Calculating island regions
+[2021-07-05.17-19-56-636]Finding straits...
+[2021-07-05.17-19-56-767]Writing .\output\common\alternate_start\01_spread.txt
+[2021-07-05.17-19-56-767]Calculating island regions
+[2021-07-05.17-19-56-782]Done in 1754ms

@@ -1,0 +1,15 @@
+# 1723 - Province1723
+
+# County Title
+title = c_province1723
+
+# Settlements
+max_settlements = 5
+b_barony1723` = tribal
+b_barony1723a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

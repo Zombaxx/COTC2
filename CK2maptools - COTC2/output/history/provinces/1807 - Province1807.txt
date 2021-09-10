@@ -1,0 +1,15 @@
+# 1807 - Province1807
+
+# County Title
+title = c_province1807
+
+# Settlements
+max_settlements = 7
+b_barony1807` = tribal
+b_barony1807a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

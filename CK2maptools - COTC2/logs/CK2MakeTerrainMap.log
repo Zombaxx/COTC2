@@ -1,0 +1,78 @@
+[2021-07-05.14-59-04-819]Loading ./input/config.csv
+[2021-07-05.14-59-04-820]ERROR parsing config.csv file : mod_folder does not exist
+[2021-07-05.14-59-04-820]Loading ./input/input.bmp
+[2021-07-05.14-59-04-829]Loading ./input/climate.bmp
+[2021-07-05.14-59-04-838]Loading ./input/settlements.bmp
+[2021-07-05.14-59-04-838]settlements map not found
+[2021-07-05.14-59-04-838]Loading ./input/rivers.bmp
+[2021-07-05.14-59-04-838]rivers map not found
+[2021-07-05.14-59-04-851]smoothing major river edges...
+[2021-07-05.14-59-05-269]Initializing terrain and heights...
+[2021-07-05.14-59-05-488]smoothing coastlines...
+[2021-07-05.14-59-05-533]smoothing coastlines...
+[2021-07-05.14-59-05-576]smoothing heights (1)...
+[2021-07-05.14-59-05-768]smoothing heights (1)...10%
+[2021-07-05.14-59-05-962]smoothing heights (1)...20%
+[2021-07-05.14-59-06-154]smoothing heights (1)...30%
+[2021-07-05.14-59-06-347]smoothing heights (1)...40%
+[2021-07-05.14-59-06-540]smoothing heights (1)...50%
+[2021-07-05.14-59-06-732]smoothing heights (1)...60%
+[2021-07-05.14-59-06-925]smoothing heights (1)...70%
+[2021-07-05.14-59-07-118]smoothing heights (1)...80%
+[2021-07-05.14-59-07-310]smoothing heights (1)...90%
+[2021-07-05.14-59-07-502]smoothing heights (1)...100%
+[2021-07-05.14-59-07-503]smoothing heights (2)...
+[2021-07-05.14-59-07-695]smoothing heights (2)...10%
+[2021-07-05.14-59-07-888]smoothing heights (2)...20%
+[2021-07-05.14-59-08-080]smoothing heights (2)...30%
+[2021-07-05.14-59-08-274]smoothing heights (2)...40%
+[2021-07-05.14-59-08-466]smoothing heights (2)...50%
+[2021-07-05.14-59-08-659]smoothing heights (2)...60%
+[2021-07-05.14-59-08-852]smoothing heights (2)...70%
+[2021-07-05.14-59-09-045]smoothing heights (2)...80%
+[2021-07-05.14-59-09-237]smoothing heights (2)...90%
+[2021-07-05.14-59-09-430]smoothing heights (2)...100%
+[2021-07-05.14-59-09-430]smoothing heights (3)...
+[2021-07-05.14-59-09-623]smoothing heights (3)...10%
+[2021-07-05.14-59-09-816]smoothing heights (3)...20%
+[2021-07-05.14-59-10-009]smoothing heights (3)...30%
+[2021-07-05.14-59-10-201]smoothing heights (3)...40%
+[2021-07-05.14-59-10-395]smoothing heights (3)...50%
+[2021-07-05.14-59-10-588]smoothing heights (3)...60%
+[2021-07-05.14-59-10-781]smoothing heights (3)...70%
+[2021-07-05.14-59-10-974]smoothing heights (3)...80%
+[2021-07-05.14-59-11-166]smoothing heights (3)...90%
+[2021-07-05.14-59-11-359]smoothing heights (3)...100%
+[2021-07-05.14-59-11-359]Adding noise...
+[2021-07-05.14-59-11-393]smoothing heights (4)...
+[2021-07-05.14-59-11-451]smoothing heights (4)...10%
+[2021-07-05.14-59-11-508]smoothing heights (4)...20%
+[2021-07-05.14-59-11-564]smoothing heights (4)...30%
+[2021-07-05.14-59-11-621]smoothing heights (4)...40%
+[2021-07-05.14-59-11-677]smoothing heights (4)...50%
+[2021-07-05.14-59-11-734]smoothing heights (4)...60%
+[2021-07-05.14-59-11-791]smoothing heights (4)...70%
+[2021-07-05.14-59-11-847]smoothing heights (4)...80%
+[2021-07-05.14-59-11-904]smoothing heights (4)...90%
+[2021-07-05.14-59-11-960]smoothing heights (4)...100%
+[2021-07-05.14-59-11-960]smoothing heights (5)...
+[2021-07-05.14-59-12-018]smoothing heights (5)...10%
+[2021-07-05.14-59-12-074]smoothing heights (5)...20%
+[2021-07-05.14-59-12-132]smoothing heights (5)...30%
+[2021-07-05.14-59-12-189]smoothing heights (5)...40%
+[2021-07-05.14-59-12-245]smoothing heights (5)...50%
+[2021-07-05.14-59-12-302]smoothing heights (5)...60%
+[2021-07-05.14-59-12-359]smoothing heights (5)...70%
+[2021-07-05.14-59-12-415]smoothing heights (5)...80%
+[2021-07-05.14-59-12-472]smoothing heights (5)...90%
+[2021-07-05.14-59-12-528]smoothing heights (5)...100%
+[2021-07-05.14-59-12-529]smoothing terrain...
+[2021-07-05.14-59-13-142]Planting trees...
+[2021-07-05.14-59-13-298]Making normal map...
+[2021-07-05.14-59-14-581]Writing ./output/map/terrain.bmp
+[2021-07-05.14-59-14-603]Writing ./output/map/topology.bmp
+[2021-07-05.14-59-14-622]Writing ./output/map/trees.bmp
+[2021-07-05.14-59-14-634]Writing ./output/map/world_normal_height.bmp
+[2021-07-05.14-59-14-677]Writing ./input/settlements.bmp
+[2021-07-05.14-59-14-720]Writing ./input/rivers.bmp
+[2021-07-05.14-59-14-763]Done in 9945ms

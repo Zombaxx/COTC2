@@ -1,0 +1,22 @@
+[2021-07-05.16-47-59-766]Loading ./input/settlements.bmp
+[2021-07-05.16-47-59-767]settlements map not found
+[2021-07-05.16-47-59-767]Loading ./output/map/terrain.bmp
+[2021-07-05.16-48-00-799]Loading ./output/map/topology.bmp
+[2021-07-05.16-48-00-841]Loading ./input/input.bmp
+[2021-07-05.16-48-00-852]Loading ./input/rivers.bmp
+[2021-07-05.16-48-01-308]Loading ./input/config.csv
+[2021-07-05.16-48-01-309]ERROR parsing config.csv file : mod_folder does not exist
+[2021-07-05.16-48-01-309]Marking water at Random...
+[2021-07-05.16-48-01-403]Marking water at Random...10%
+[2021-07-05.16-48-01-502]Marking water at Random...20%
+[2021-07-05.16-48-01-595]Marking water at Random...30%
+[2021-07-05.16-48-01-691]Marking water at Random...40%
+[2021-07-05.16-48-01-786]Marking water at Random...50%
+[2021-07-05.16-48-01-885]Marking water at Random...60%
+[2021-07-05.16-48-01-976]Marking water at Random...70%
+[2021-07-05.16-48-02-066]Marking water at Random...80%
+[2021-07-05.16-48-02-156]Marking water at Random...90%
+[2021-07-05.16-48-03-718]java.lang.NullPointerException
+[2021-07-05.16-48-03-719]ck2maptools.main.CK2MakeSettlements.execute(CK2MakeSettlements.java:189)
+[2021-07-05.16-48-03-719]ck2maptools.ui.CK2MapToolsWorker.run(CK2MapToolsWorker.java:29)
+[2021-07-05.16-48-03-719]java.base/java.lang.Thread.run(Unknown Source)

@@ -1,0 +1,14 @@
+# 1692 - Province1692
+
+# County Title
+title = c_province1692
+
+# Settlements
+max_settlements = 4
+b_barony1692` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

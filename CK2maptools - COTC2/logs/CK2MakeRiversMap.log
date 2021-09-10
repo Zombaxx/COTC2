@@ -1,0 +1,10 @@
+[2021-07-05.14-59-24-164]Loading ./output/map/terrain.bmp
+[2021-07-05.14-59-25-180]Loading ./output/map/topology.bmp
+[2021-07-05.14-59-25-222]Loading ./input/rivers.bmp
+[2021-07-05.14-59-25-658]Loading ./input/settlements.bmp
+[2021-07-05.14-59-26-102]Initializing...
+[2021-07-05.14-59-26-123]Smoothing edges...
+[2021-07-05.14-59-26-281]Reconstructing rivers...
+[2021-07-05.14-59-26-368]Writing .\output\map/rivers.bmp
+[2021-07-05.14-59-26-395]Writing ./input/settlements.bmp
+[2021-07-05.14-59-26-429]Done in 2266ms

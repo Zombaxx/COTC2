@@ -1,0 +1,45 @@
+#CK2MapTools Config file;This file is automatically regenerated
+#SETTING;VALUE
+#START_YEAR;Target year for which to generate history.
+#MOD_FOLDER;Folder of your mod, or of the base game. Used only to read cultures.
+#HEIGHTS;Tweak these to alter terrain height. Default values 125,150,175,200. Each one should be higher than the last and all should be higher than 96.
+hills_height;118
+mountains_height;139
+snow_height;163
+peak_height;190
+#INPUT_MAP_SCALE;How much smaller the input.bmp and climate.bmp are compared to the provinces.bmp. Higher value means lower resolution. Defaults to 2, meaning the provinces.bmp is twice as large as input.bmp
+input_map_scale;2
+#TREE_MAP_SCALE;How much smaller the tree.bmp is compared to the provinces.bmp. Higher value means lower resolution, fewer trees and better in-game performance. Defaults to 6, meaning the provinces.bmp is 6 times as large as the tree.bmp.
+tree_map_scale;4
+#NOISE;Params for randomness in terrain height. For each square of noise_patch_size pixels, a random number rand is chosen between 0 and noise_factor_max.
+#NOISE;Final terrain height for each pixel is equal to [base_height + (noise_baseline + base_height - water_height) * rand]
+#NOISE;[peak_height + (noise_baseline + peak_height - 96) * (noise_factor_max)] should not be much higher than 255
+#NOISE;A higher patch size will make the terrain more uniform. A lower size will increase bumpiness.
+noise_patch_size;4
+#NOISE;A higher factor will increase height variations, especially on higher terrain.
+noise_factor_max;0.5
+#NOISE;A higher baseline will increase height variations. This effect will be equally pronounced on low or high terrain.
+noise_baseline;15
+#SMOOTHING;A higher number means smoother, flatter terrain, but also more time to process. Low numbers will lead to steep, artificial transitions between mountain types.
+smooth_radius;6
+#PROVINCES;The minimum distance between 2 settlements when using the filling tool. A greater number will generate larger provinces
+settlements_min_distance;33
+#PROVINCES;The minimum distance between 2 sea nodes when using the filling tool. A greater number will generate larger sea zones
+sea_nodes_min_distance;100
+#ADJACENCIES;Used for adjacencies calculations. Maximum squared distance between 2 provinces that can allow a strait.
+max_strait_distance;24
+#RULERS;Percentage of female rulers to generate (feudal/tribal only)
+percent_female;10
+#CUSTOM_TERRAIN;There are 2 unused terrains in the game's terrain.bmp, you can use them and define their properties (for the tools) here
+#CUSTOM_TERRAIN;Color by which the terrain is identified in input.bmp. custom_terrain_1 will map to index 13 and custom_terrain_2 will map to index 14
+custom_terrain_1_input_color;128;255;255
+custom_terrain_2_input_color;0;128;128
+#CUSTOM_TERRAIN;Initial height for each custom terrain type. Note : th tool turns all terrain into hills/mountains or their desert equivalents above certain height levels, so keep this below hills_height as defined above
+custom_terrain_1_height;96
+custom_terrain_2_height;96
+#CUSTOM_TERRAIN;Color of the terrain's texture on the colormap.dds
+custom_terrain_1_colormap;128;160;160
+custom_terrain_2_colormap;96;104;64
+#CUSTOM_TERRAIN;Used for province holding slots calculations. For comparison : farmlands=8, plains=4, forest=2, steppe=2, hills=2, arctic=1, desert=0
+custom_terrain_1_wealth;0
+custom_terrain_2_wealth;2
