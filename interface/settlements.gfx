@@ -2,7 +2,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "westerngfx_port"
 		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 300.0f
 	}
@@ -10,7 +10,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "easterngfx_port"
 		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 300.0f
 	}
@@ -18,7 +18,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_port"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_port.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 300.0f
 	}
@@ -26,7 +26,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "westerngfx_tradepost_flag"
 		actorfile = "gfx\models\Settlements\Western\Republic_flag.xac"
-		scale = 0.8f
+		scale = 0.01f
 		use_animation = yes
 		cull_distance = 300.0f
 		
@@ -36,7 +36,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_tradepost_flag"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Republic_Flag.xac"
-		scale = 0.8f
+		scale = 0.01f
 		use_animation = yes
 		cull_distance = 300.0f
 		
@@ -46,7 +46,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "tradepost_port"
 		actorfile = "gfx\models\Settlements\Western\Tradepost.xac"
-		scale = 0.8f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 500.0f		
 	}
@@ -55,7 +55,7 @@ objectTypes = {
 		name = "tradepost_camp"
 		file = "gfx\models\Settlements\Trade\tradepost.mesh"
 		
-		scale = 0.3f
+		scale = 0.01f
 		cull_distance = 500.0f
 	}
 
@@ -64,14 +64,14 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_house_1_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_1_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
@@ -79,105 +79,105 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_house_1_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_1_4"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_house_2_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_4"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_house_3_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_4"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_4"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_castle_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -185,7 +185,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_castle_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -193,7 +193,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_castle_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -201,7 +201,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_temple_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -209,7 +209,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_temple_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -217,7 +217,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_temple_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -225,7 +225,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_city_1"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -233,7 +233,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_city_2"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -241,7 +241,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "muslimgfx_city_3"
 		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -249,7 +249,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "muslimgfx_tribal_1"
 		file = "gfx\models\Settlements\Tribal\tribal_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 
@@ -258,119 +258,119 @@ objectTypes = {
 	EMFXActorType = {
 		name = "westerngfx_house_1_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_1_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_1_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_1_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_2_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_2_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_2_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_2_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_3_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_3_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_3_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_3_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_4_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	pdxmesh = {
 		name = "westerngfx_castle_1"
 		file = "gfx\models\scificastle.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -378,7 +378,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_castle_2"
 		file = "gfx\models\scificastle.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -386,7 +386,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_castle_3"
 		file = "gfx\models\scificastle.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -394,7 +394,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_temple_1"
 		file = "gfx\models\scifitemple.mesh"
-		scale = 0.35f
+		scale = 0.015f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -402,7 +402,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_temple_2"
 		file = "gfx\models\scifitemple.mesh"
-		scale = 0.35f
+		scale = 0.015f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -410,7 +410,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_temple_3"
 		file = "gfx\models\scifitemple.mesh"
-		scale = 0.35f
+		scale = 0.015f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -418,7 +418,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_city_1"
 		file = "gfx\models\scificity.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -426,7 +426,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_city_2"
 		file = "gfx\models\scificity.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -434,7 +434,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_city_3"
 		file = "gfx\models\scificity.mesh"
-		scale = 0.6f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -442,7 +442,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "westerngfx_tribal_1"
 		file = "gfx\models\Settlements\Tribal\tribal_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 
@@ -451,119 +451,119 @@ objectTypes = {
 	EMFXActorType = {
 		name = "easterngfx_house_1_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_1_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_1_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_1_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_1_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_2_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_2_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_2_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_2_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_2_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_3_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_3_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_3_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_3_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_3_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_1"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_2"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_3"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_4_4"
 		actorfile = "gfx\models\Settlements\Western\Western_house_4_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_castle_1"
 		actorfile = "gfx\models\Settlements\Western\Western_Castle_01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -571,7 +571,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "easterngfx_temple_1"
 		actorfile = "gfx\models\Settlements\Western\Western_Church_01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -579,7 +579,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "easterngfx_city_1"
 		actorfile = "gfx\models\Settlements\Western\Western_City01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -587,7 +587,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "easterngfx_tribal_1"
 		file = "gfx\models\Settlements\Tribal\tribal_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 	
@@ -596,119 +596,119 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_house_1_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_1_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_1_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_1_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_1_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_1_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_1_4"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_1_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_2_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_2_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_2_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_2_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_2_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_2_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_2_4"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_2_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_3_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_3_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_3_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_3_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_3_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_3_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_3_4"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_3_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_4_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_4_01.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_4_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_4_02.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "indiangfx_house_4_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_4_03.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_house_4_4"
 		actorfile = "gfx\models\Settlements\Indian\indian_house_4_04.xac"
-		scale = 0.7f
+		scale = 0.01f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "indiangfx_castle_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_castle_01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -716,7 +716,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_castle_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_castle_02.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -724,7 +724,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_castle_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_castle_03.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -732,7 +732,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_temple_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_church_01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -740,7 +740,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_temple_2"
 		actorfile = "gfx\models\Settlements\Indian\indian_church_02.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -748,7 +748,7 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_temple_3"
 		actorfile = "gfx\models\Settlements\Indian\indian_church_03.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -756,21 +756,21 @@ objectTypes = {
 	EMFXActorType = {
 		name = "indiangfx_city_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_city01.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
 		EMFXActorType = {
 		name = "indiangfx_city_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_city02.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
 		EMFXActorType = {
 		name = "indiangfx_city_1"
 		actorfile = "gfx\models\Settlements\Indian\indian_city03.xac"
-		scale = 1.0f
+		scale = 0.01f
 		use_animation = no
 		cull_distance = 550.0f
 	}
@@ -778,7 +778,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "indiangfx_tribal_1"
 		file = "gfx\models\Settlements\Tribal\tribal_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 
@@ -787,104 +787,104 @@ objectTypes = {
 	pdxmesh = {
 		name = "tribalgfx_house_1_1"
 		file = "gfx\models\Settlements\Tribal\tribal_house_1_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_1_2"
 		file = "gfx\models\Settlements\Tribal\tribal_house_1_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	
 	pdxmesh = {
 		name = "tribalgfx_house_1_3"
 		file = "gfx\models\Settlements\Tribal\tribal_house_1_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_1_4"
 		file = "gfx\models\Settlements\Tribal\tribal_house_1_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	##pdxmesh = {
 	##	name = "tribalgfx_house_2_1"
 	##	file = "gfx\models\Settlements\Tribal\tribal_house_2_01.mesh"
-	##	scale = 0.7f
+	##	scale = 0.01f
 	##}
 
 	pdxmesh = {
 		name = "tribalgfx_house_2_2"
 		file = "gfx\models\Settlements\Tribal\tribal_house_2_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_2_3"
 		file = "gfx\models\Settlements\Tribal\tribal_house_2_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_2_4"
 		file = "gfx\models\Settlements\Tribal\tribal_house_2_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_3_1"
 		file = "gfx\models\Settlements\Tribal\tribal_house_3_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_3_2"
 		file = "gfx\models\Settlements\Tribal\tribal_house_3_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	pdxmesh = {
 		name = "tribalgfx_house_3_3"
 		file = "gfx\models\Settlements\Tribal\tribal_house_3_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_3_4"
 		file = "gfx\models\Settlements\Tribal\tribal_house_3_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_4_1"
 		file = "gfx\models\Settlements\Tribal\tribal_house_4_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_4_2"
 		file = "gfx\models\Settlements\Tribal\tribal_house_4_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_4_3"
 		file = "gfx\models\Settlements\Tribal\tribal_house_4_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "tribalgfx_house_4_4"
 		file = "gfx\models\Settlements\Tribal\tribal_house_4_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	pdxmesh = {
 		name = "tribalgfx_tribal_1"
 		file = "gfx\models\Settlements\Tribal\tribal_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 
@@ -893,104 +893,104 @@ objectTypes = {
 	pdxmesh = {
 		name = "nomadgfx_house_1_1"
 		file = "gfx\models\Settlements\Nomad\nomad_house_1_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_1_2"
 		file = "gfx\models\Settlements\Nomad\nomad_house_1_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	
 	pdxmesh = {
 		name = "nomadgfx_house_1_3"
 		file = "gfx\models\Settlements\Nomad\nomad_house_1_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_1_4"
 		file = "gfx\models\Settlements\Nomad\nomad_house_1_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_2_1"
 		file = "gfx\models\Settlements\Nomad\nomad_house_2_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_2_2"
 		file = "gfx\models\Settlements\Nomad\nomad_house_2_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	pdxmesh = {
 		name = "nomadgfx_house_2_3"
 		file = "gfx\models\Settlements\Nomad\nomad_house_2_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_2_4"
 		file = "gfx\models\Settlements\Nomad\nomad_house_2_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_3_1"
 		file = "gfx\models\Settlements\Nomad\nomad_house_3_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_3_2"
 		file = "gfx\models\Settlements\Nomad\nomad_house_3_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	pdxmesh = {
 		name = "nomadgfx_house_3_3"
 		file = "gfx\models\Settlements\Nomad\nomad_house_3_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_3_4"
 		file = "gfx\models\Settlements\Nomad\nomad_house_3_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_4_1"
 		file = "gfx\models\Settlements\Nomad\nomad_house_4_01.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_4_2"
 		file = "gfx\models\Settlements\Nomad\nomad_house_4_02.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_4_3"
 		file = "gfx\models\Settlements\Nomad\nomad_house_4_03.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 
 	pdxmesh = {
 		name = "nomadgfx_house_4_4"
 		file = "gfx\models\Settlements\Nomad\nomad_house_4_04.mesh"
-		scale = 0.7f
+		scale = 0.01f
 	}
 	
 	pdxmesh = {
 		name = "nomadgfx_nomad_1"
 		file = "gfx\models\Settlements\Nomad\nomad_mainhouse_01.mesh"
-		scale = 1.0f
+		scale = 0.01f
 		cull_distance = 550.0f
 	}
 }
